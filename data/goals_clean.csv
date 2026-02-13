@@ -1,0 +1,966 @@
+goal_id,match_id,scoring_team,opponent_team,player_id,player_name
+G-2077,M-2002-01,Senegal,France,P-82212,Papa Bouba Diop
+G-2078,M-2002-02,Cameroon,Republic of Ireland,P-18804,Patrick M'Boma
+G-2079,M-2002-02,Republic of Ireland,Cameroon,P-00105,Matt Holland
+G-2080,M-2002-03,Denmark,Uruguay,P-50534,Jon Dahl Tomasson
+G-2081,M-2002-03,Uruguay,Denmark,P-49428,Darío Rodríguez
+G-2082,M-2002-03,Denmark,Uruguay,P-50534,Jon Dahl Tomasson
+G-2083,M-2002-04,Germany,Saudi Arabia,P-27787,Miroslav Klose
+G-2084,M-2002-04,Germany,Saudi Arabia,P-27787,Miroslav Klose
+G-2085,M-2002-04,Germany,Saudi Arabia,P-84003,Michael Ballack
+G-2086,M-2002-04,Germany,Saudi Arabia,P-45490,Carsten Jancker
+G-2087,M-2002-04,Germany,Saudi Arabia,P-27787,Miroslav Klose
+G-2088,M-2002-04,Germany,Saudi Arabia,P-17520,Thomas Linke
+G-2089,M-2002-04,Germany,Saudi Arabia,P-84534,Oliver Bierhoff
+G-2090,M-2002-04,Germany,Saudi Arabia,P-32136,Bernd Schneider
+G-2091,M-2002-05,Argentina,Nigeria,P-84542,Gabriel Batistuta
+G-2092,M-2002-06,Paraguay,South Africa,P-34530,Roque Santa Cruz
+G-2093,M-2002-06,Paraguay,South Africa,P-76678,Francisco Arce
+G-2094,M-2002-06,South Africa,Paraguay,P-99521,Teboho Mokoena
+G-2095,M-2002-06,South Africa,Paraguay,P-02423,Quinton Fortune
+G-2096,M-2002-07,England,Sweden,P-97840,Sol Campbell
+G-2097,M-2002-07,Sweden,England,P-42808,Niclas Alexandersson
+G-2098,M-2002-08,Spain,Slovenia,P-24556,not applicable Raúl
+G-2099,M-2002-08,Spain,Slovenia,P-76612,Juan Carlos Valerón
+G-2100,M-2002-08,Slovenia,Spain,P-00649,Sebastjan Cimirotič
+G-2101,M-2002-08,Spain,Slovenia,P-35246,Fernando Hierro
+G-2102,M-2002-09,Mexico,Croatia,P-88428,Cuauhtémoc Blanco
+G-2103,M-2002-10,Turkey,Brazil,P-23883,Hasan Şaş
+G-2104,M-2002-10,Brazil,Turkey,P-62722,not applicable Ronaldo
+G-2105,M-2002-10,Brazil,Turkey,P-74261,not applicable Rivaldo
+G-2106,M-2002-11,Italy,Ecuador,P-34670,Christian Vieri
+G-2107,M-2002-11,Italy,Ecuador,P-34670,Christian Vieri
+G-2108,M-2002-12,Costa Rica,China,P-55170,Rónald Gómez
+G-2109,M-2002-12,Costa Rica,China,P-56613,Mauricio Wright
+G-2110,M-2002-13,Belgium,Japan,P-69659,Marc Wilmots
+G-2111,M-2002-13,Japan,Belgium,P-96566,Takayuki Suzuki
+G-2112,M-2002-13,Japan,Belgium,P-46807,Junichi Inamoto
+G-2113,M-2002-13,Belgium,Japan,P-02977,Peter Van der Heyden
+G-2114,M-2002-14,South Korea,Poland,P-15222,Sun-hong Hwang
+G-2115,M-2002-14,South Korea,Poland,P-75255,Sang-chul Yoo
+G-2116,M-2002-15,Russia,Tunisia,P-66907,Yegor Titov
+G-2117,M-2002-15,Russia,Tunisia,P-48249,Valeri Karpin
+G-2118,M-2002-16,United States,Portugal,P-88043,John O'Brien
+G-2119,M-2002-16,United States,Portugal,P-73722,Jorge Costa
+G-2120,M-2002-16,United States,Portugal,P-60597,Brian McBride
+G-2121,M-2002-16,Portugal,United States,P-37140,not applicable Beto
+G-2122,M-2002-16,Portugal,United States,P-72797,Jeff Agoos
+G-2123,M-2002-17,Germany,Republic of Ireland,P-27787,Miroslav Klose
+G-2124,M-2002-17,Republic of Ireland,Germany,P-84878,Robbie Keane
+G-2125,M-2002-18,Denmark,Senegal,P-50534,Jon Dahl Tomasson
+G-2126,M-2002-18,Senegal,Denmark,P-35019,Salif Diao
+G-2127,M-2002-19,Cameroon,Saudi Arabia,P-61703,Samuel Eto'o
+G-2128,M-2002-21,Nigeria,Sweden,P-74228,Julius Aghahowa
+G-2129,M-2002-21,Sweden,Nigeria,P-42895,Henrik Larsson
+G-2130,M-2002-21,Sweden,Nigeria,P-42895,Henrik Larsson
+G-2131,M-2002-22,Paraguay,Spain,P-51089,Carles Puyol
+G-2132,M-2002-22,Spain,Paraguay,P-08514,Fernando Morientes
+G-2133,M-2002-22,Spain,Paraguay,P-08514,Fernando Morientes
+G-2134,M-2002-22,Spain,Paraguay,P-35246,Fernando Hierro
+G-2135,M-2002-23,England,Argentina,P-81049,David Beckham
+G-2136,M-2002-24,South Africa,Slovenia,P-22393,Siyabonga Nomvethe
+G-2137,M-2002-25,Italy,Croatia,P-34670,Christian Vieri
+G-2138,M-2002-25,Croatia,Italy,P-13265,Ivica Olić
+G-2139,M-2002-25,Croatia,Italy,P-55293,Milan Rapaić
+G-2140,M-2002-26,Brazil,China,P-85176,Roberto Carlos
+G-2141,M-2002-26,Brazil,China,P-74261,not applicable Rivaldo
+G-2142,M-2002-26,Brazil,China,P-57361,not applicable Ronaldinho
+G-2143,M-2002-26,Brazil,China,P-62722,not applicable Ronaldo
+G-2144,M-2002-27,Ecuador,Mexico,P-19156,Agustín Delgado
+G-2145,M-2002-27,Mexico,Ecuador,P-81643,Jared Borgetti
+G-2146,M-2002-27,Mexico,Ecuador,P-89297,Gerardo Torrado
+G-2147,M-2002-28,Turkey,Costa Rica,P-46497,Emre Belözoğlu
+G-2148,M-2002-28,Costa Rica,Turkey,P-20880,Winston Parks
+G-2149,M-2002-29,Japan,Russia,P-46807,Junichi Inamoto
+G-2150,M-2002-30,United States,South Korea,P-38074,Clint Mathis
+G-2151,M-2002-30,South Korea,United States,P-26616,Jung-hwan Ahn
+G-2152,M-2002-31,Belgium,Tunisia,P-69659,Marc Wilmots
+G-2153,M-2002-31,Tunisia,Belgium,P-87702,Raouf Bouzaiene
+G-2154,M-2002-32,Portugal,Poland,P-57982,not applicable Pauleta
+G-2155,M-2002-32,Portugal,Poland,P-57982,not applicable Pauleta
+G-2156,M-2002-32,Portugal,Poland,P-57982,not applicable Pauleta
+G-2157,M-2002-32,Portugal,Poland,P-62808,Rui Costa
+G-2158,M-2002-33,Denmark,France,P-80170,Dennis Rommedahl
+G-2159,M-2002-33,Denmark,France,P-50534,Jon Dahl Tomasson
+G-2160,M-2002-34,Senegal,Uruguay,P-62977,Khalilou Fadiga
+G-2161,M-2002-34,Senegal,Uruguay,P-82212,Papa Bouba Diop
+G-2162,M-2002-34,Senegal,Uruguay,P-82212,Papa Bouba Diop
+G-2163,M-2002-34,Uruguay,Senegal,P-48761,Richard Morales
+G-2164,M-2002-34,Uruguay,Senegal,P-86087,Diego Forlán
+G-2165,M-2002-34,Uruguay,Senegal,P-66684,Álvaro Recoba
+G-2166,M-2002-35,Germany,Cameroon,P-03026,Marco Bode
+G-2167,M-2002-35,Germany,Cameroon,P-27787,Miroslav Klose
+G-2168,M-2002-36,Republic of Ireland,Saudi Arabia,P-84878,Robbie Keane
+G-2169,M-2002-36,Republic of Ireland,Saudi Arabia,P-22209,Gary Breen
+G-2170,M-2002-36,Republic of Ireland,Saudi Arabia,P-18106,Damien Duff
+G-2171,M-2002-38,Sweden,Argentina,P-85432,Anders Svensson
+G-2172,M-2002-38,Argentina,Sweden,P-19888,Hernán Crespo
+G-2173,M-2002-39,Slovenia,Paraguay,P-44943,Milenko Ačimovič
+G-2174,M-2002-39,Paraguay,Slovenia,P-88899,Nelson Cuevas
+G-2175,M-2002-39,Paraguay,Slovenia,P-78557,Jorge Luis Campos
+G-2176,M-2002-39,Paraguay,Slovenia,P-88899,Nelson Cuevas
+G-2177,M-2002-40,Spain,South Africa,P-24556,not applicable Raúl
+G-2178,M-2002-40,South Africa,Spain,P-59298,Benni McCarthy
+G-2179,M-2002-40,Spain,South Africa,P-37161,Gaizka Mendieta
+G-2180,M-2002-40,South Africa,Spain,P-56543,Lucas Radebe
+G-2181,M-2002-40,Spain,South Africa,P-24556,not applicable Raúl
+G-2182,M-2002-41,Brazil,Costa Rica,P-62722,not applicable Ronaldo
+G-2183,M-2002-41,Brazil,Costa Rica,P-62722,not applicable Ronaldo
+G-2184,M-2002-41,Brazil,Costa Rica,P-09270,not applicable Edmílson
+G-2185,M-2002-41,Costa Rica,Brazil,P-22046,Paulo Wanchope
+G-2186,M-2002-41,Costa Rica,Brazil,P-55170,Rónald Gómez
+G-2187,M-2002-41,Brazil,Costa Rica,P-74261,not applicable Rivaldo
+G-2188,M-2002-41,Brazil,Costa Rica,P-29601,not applicable Júnior
+G-2189,M-2002-42,Turkey,China,P-23883,Hasan Şaş
+G-2190,M-2002-42,Turkey,China,P-94559,Bülent Korkmaz
+G-2191,M-2002-42,Turkey,China,P-31566,Ümit Davala
+G-2192,M-2002-43,Ecuador,Croatia,P-42534,Édison Méndez
+G-2193,M-2002-44,Mexico,Italy,P-81643,Jared Borgetti
+G-2194,M-2002-44,Italy,Mexico,P-83836,Alessandro Del Piero
+G-2195,M-2002-45,Belgium,Russia,P-03447,Johan Walem
+G-2196,M-2002-45,Russia,Belgium,P-76498,Vladimir Beschastnykh
+G-2197,M-2002-45,Belgium,Russia,P-64922,Wesley Sonck
+G-2198,M-2002-45,Belgium,Russia,P-69659,Marc Wilmots
+G-2199,M-2002-45,Russia,Belgium,P-04731,Dmitri Sychev
+G-2200,M-2002-46,Japan,Tunisia,P-17348,Hiroaki Morishima
+G-2201,M-2002-46,Japan,Tunisia,P-09349,Hidetoshi Nakata
+G-2202,M-2002-47,Poland,United States,P-75230,Emmanuel Olisadebe
+G-2203,M-2002-47,Poland,United States,P-69995,Paweł Kryszałowicz
+G-2204,M-2002-47,Poland,United States,P-03927,Marcin Żewłakow
+G-2205,M-2002-47,United States,Poland,P-05728,Landon Donovan
+G-2206,M-2002-48,South Korea,Portugal,P-25724,Ji-sung Park
+G-2207,M-2002-49,Germany,Paraguay,P-55504,Oliver Neuville
+G-2208,M-2002-50,England,Denmark,P-01249,Rio Ferdinand
+G-2209,M-2002-50,England,Denmark,P-51130,Michael Owen
+G-2210,M-2002-50,England,Denmark,P-08307,Emile Heskey
+G-2211,M-2002-51,Sweden,Senegal,P-42895,Henrik Larsson
+G-2212,M-2002-51,Senegal,Sweden,P-01462,Henri Camara
+G-2213,M-2002-51,Senegal,Sweden,P-01462,Henri Camara
+G-2214,M-2002-52,Spain,Republic of Ireland,P-08514,Fernando Morientes
+G-2215,M-2002-52,Republic of Ireland,Spain,P-84878,Robbie Keane
+G-2216,M-2002-53,United States,Mexico,P-60597,Brian McBride
+G-2217,M-2002-53,United States,Mexico,P-05728,Landon Donovan
+G-2218,M-2002-54,Brazil,Belgium,P-74261,not applicable Rivaldo
+G-2219,M-2002-54,Brazil,Belgium,P-62722,not applicable Ronaldo
+G-2220,M-2002-55,Turkey,Japan,P-31566,Ümit Davala
+G-2221,M-2002-56,Italy,South Korea,P-34670,Christian Vieri
+G-2222,M-2002-56,South Korea,Italy,P-56626,Ki-hyeon Seol
+G-2223,M-2002-56,South Korea,Italy,P-26616,Jung-hwan Ahn
+G-2224,M-2002-57,England,Brazil,P-51130,Michael Owen
+G-2225,M-2002-57,Brazil,England,P-74261,not applicable Rivaldo
+G-2226,M-2002-57,Brazil,England,P-57361,not applicable Ronaldinho
+G-2227,M-2002-58,Germany,United States,P-84003,Michael Ballack
+G-2228,M-2002-60,Turkey,Senegal,P-41133,İlhan Mansız
+G-2229,M-2002-61,Germany,South Korea,P-84003,Michael Ballack
+G-2230,M-2002-62,Brazil,Turkey,P-62722,not applicable Ronaldo
+G-2231,M-2002-63,Turkey,South Korea,P-58212,Hakan Şükür
+G-2232,M-2002-63,South Korea,Turkey,P-60562,Eul-yong Lee
+G-2233,M-2002-63,Turkey,South Korea,P-41133,İlhan Mansız
+G-2234,M-2002-63,Turkey,South Korea,P-41133,İlhan Mansız
+G-2235,M-2002-63,South Korea,Turkey,P-83544,Chong-gug Song
+G-2236,M-2002-64,Brazil,Germany,P-62722,not applicable Ronaldo
+G-2237,M-2002-64,Brazil,Germany,P-62722,not applicable Ronaldo
+G-2345,M-2006-01,Germany,Costa Rica,P-18599,Philipp Lahm
+G-2346,M-2006-01,Costa Rica,Germany,P-22046,Paulo Wanchope
+G-2347,M-2006-01,Germany,Costa Rica,P-27787,Miroslav Klose
+G-2348,M-2006-01,Germany,Costa Rica,P-27787,Miroslav Klose
+G-2349,M-2006-01,Costa Rica,Germany,P-22046,Paulo Wanchope
+G-2350,M-2006-01,Germany,Costa Rica,P-35264,Torsten Frings
+G-2351,M-2006-02,Ecuador,Poland,P-86943,Carlos Tenorio
+G-2352,M-2006-02,Ecuador,Poland,P-19156,Agustín Delgado
+G-2353,M-2006-03,England,Paraguay,P-19241,Carlos Gamarra
+G-2354,M-2006-05,Argentina,Ivory Coast,P-19888,Hernán Crespo
+G-2355,M-2006-05,Argentina,Ivory Coast,P-38901,Javier Saviola
+G-2356,M-2006-05,Ivory Coast,Argentina,P-99466,Didier Drogba
+G-2357,M-2006-06,Netherlands,Serbia and Montenegro,P-23705,Arjen Robben
+G-2358,M-2006-07,Mexico,Iran,P-34977,Omar Bravo
+G-2359,M-2006-07,Iran,Mexico,P-20762,Yahya Golmohammadi
+G-2360,M-2006-07,Mexico,Iran,P-34977,Omar Bravo
+G-2361,M-2006-07,Mexico,Iran,P-30651,not applicable Sinha
+G-2362,M-2006-08,Portugal,Angola,P-57982,not applicable Pauleta
+G-2363,M-2006-09,Japan,Australia,P-77277,Shunsuke Nakamura
+G-2364,M-2006-09,Australia,Japan,P-44926,Tim Cahill
+G-2365,M-2006-09,Australia,Japan,P-44926,Tim Cahill
+G-2366,M-2006-09,Australia,Japan,P-59039,John Aloisi
+G-2367,M-2006-10,Czech Republic,United States,P-81477,Jan Koller
+G-2368,M-2006-10,Czech Republic,United States,P-29090,Tomáš Rosický
+G-2369,M-2006-10,Czech Republic,United States,P-29090,Tomáš Rosický
+G-2370,M-2006-11,Italy,Ghana,P-99537,Andrea Pirlo
+G-2371,M-2006-11,Italy,Ghana,P-38599,Vincenzo Iaquinta
+G-2372,M-2006-12,Togo,South Korea,P-04210,Mohamed Kader
+G-2373,M-2006-12,South Korea,Togo,P-22338,Chun-soo Lee
+G-2374,M-2006-12,South Korea,Togo,P-26616,Jung-hwan Ahn
+G-2375,M-2006-14,Brazil,Croatia,P-58388,not applicable Kaká
+G-2376,M-2006-15,Spain,Ukraine,P-73924,Xabi Alonso
+G-2377,M-2006-15,Spain,Ukraine,P-49097,David Villa
+G-2378,M-2006-15,Spain,Ukraine,P-49097,David Villa
+G-2379,M-2006-15,Spain,Ukraine,P-71661,Fernando Torres
+G-2380,M-2006-16,Tunisia,Saudi Arabia,P-00640,Ziad Jaziri
+G-2381,M-2006-16,Saudi Arabia,Tunisia,P-87114,Yasser Al-Qahtani
+G-2382,M-2006-16,Saudi Arabia,Tunisia,P-88041,Sami Al-Jaber
+G-2383,M-2006-16,Tunisia,Saudi Arabia,P-76769,Radhi Jaïdi
+G-2384,M-2006-17,Germany,Poland,P-55504,Oliver Neuville
+G-2385,M-2006-18,Ecuador,Costa Rica,P-86943,Carlos Tenorio
+G-2386,M-2006-18,Ecuador,Costa Rica,P-19156,Agustín Delgado
+G-2387,M-2006-18,Ecuador,Costa Rica,P-03128,Iván Kaviedes
+G-2388,M-2006-19,England,Trinidad and Tobago,P-77532,Peter Crouch
+G-2389,M-2006-19,England,Trinidad and Tobago,P-62157,Steven Gerrard
+G-2390,M-2006-20,Sweden,Paraguay,P-84022,Freddie Ljungberg
+G-2391,M-2006-21,Argentina,Serbia and Montenegro,P-33570,Maxi Rodríguez
+G-2392,M-2006-21,Argentina,Serbia and Montenegro,P-66229,Esteban Cambiasso
+G-2393,M-2006-21,Argentina,Serbia and Montenegro,P-33570,Maxi Rodríguez
+G-2394,M-2006-21,Argentina,Serbia and Montenegro,P-19888,Hernán Crespo
+G-2395,M-2006-21,Argentina,Serbia and Montenegro,P-29080,Carlos Tevez
+G-2396,M-2006-21,Argentina,Serbia and Montenegro,P-14758,Lionel Messi
+G-2397,M-2006-22,Netherlands,Ivory Coast,P-99934,Robin van Persie
+G-2398,M-2006-22,Netherlands,Ivory Coast,P-03013,Ruud van Nistelrooy
+G-2399,M-2006-22,Ivory Coast,Netherlands,P-64184,Bakari Koné
+G-2400,M-2006-24,Portugal,Iran,P-96343,not applicable Deco
+G-2401,M-2006-24,Portugal,Iran,P-70442,Cristiano Ronaldo
+G-2402,M-2006-25,Ghana,Czech Republic,P-38556,Asamoah Gyan
+G-2403,M-2006-25,Ghana,Czech Republic,P-50641,Sulley Muntari
+G-2404,M-2006-26,Italy,United States,P-48645,Alberto Gilardino
+G-2405,M-2006-26,United States,Italy,P-14267,Cristian Zaccardo
+G-2406,M-2006-28,Brazil,Australia,P-20372,not applicable Adriano
+G-2407,M-2006-28,Brazil,Australia,P-54042,not applicable Fred
+G-2408,M-2006-29,France,South Korea,P-51395,Thierry Henry
+G-2409,M-2006-29,South Korea,France,P-25724,Ji-sung Park
+G-2410,M-2006-30,Switzerland,Togo,P-61684,Alexander Frei
+G-2411,M-2006-30,Switzerland,Togo,P-97143,Tranquillo Barnetta
+G-2412,M-2006-31,Ukraine,Saudi Arabia,P-07368,Andriy Rusol
+G-2413,M-2006-31,Ukraine,Saudi Arabia,P-56553,Serhii Rebrov
+G-2414,M-2006-31,Ukraine,Saudi Arabia,P-86650,Andriy Shevchenko
+G-2415,M-2006-31,Ukraine,Saudi Arabia,P-98387,Maksym Kalynychenko
+G-2416,M-2006-32,Tunisia,Spain,P-61850,Jawhar Mnari
+G-2417,M-2006-32,Spain,Tunisia,P-24556,not applicable Raúl
+G-2418,M-2006-32,Spain,Tunisia,P-71661,Fernando Torres
+G-2419,M-2006-32,Spain,Tunisia,P-71661,Fernando Torres
+G-2420,M-2006-33,Costa Rica,Poland,P-55170,Rónald Gómez
+G-2421,M-2006-33,Poland,Costa Rica,P-37586,Bartosz Bosacki
+G-2422,M-2006-33,Poland,Costa Rica,P-37586,Bartosz Bosacki
+G-2423,M-2006-34,Germany,Ecuador,P-27787,Miroslav Klose
+G-2424,M-2006-34,Germany,Ecuador,P-27787,Miroslav Klose
+G-2425,M-2006-34,Germany,Ecuador,P-36287,Lukas Podolski
+G-2426,M-2006-35,Paraguay,Trinidad and Tobago,P-52480,Brent Sancho
+G-2427,M-2006-35,Paraguay,Trinidad and Tobago,P-88899,Nelson Cuevas
+G-2428,M-2006-36,England,Sweden,P-37933,Joe Cole
+G-2429,M-2006-36,Sweden,England,P-45212,Marcus Allbäck
+G-2430,M-2006-36,England,Sweden,P-62157,Steven Gerrard
+G-2431,M-2006-36,Sweden,England,P-42895,Henrik Larsson
+G-2432,M-2006-37,Angola,Iran,P-78483,not applicable Flávio
+G-2433,M-2006-37,Iran,Angola,P-02909,Sohrab Bakhtiarizadeh
+G-2434,M-2006-38,Portugal,Mexico,P-17581,not applicable Maniche
+G-2435,M-2006-38,Portugal,Mexico,P-32279,not applicable Simão
+G-2436,M-2006-38,Mexico,Portugal,P-89438,Francisco Fonseca
+G-2437,M-2006-39,Serbia and Montenegro,Ivory Coast,P-18094,Nikola Žigić
+G-2438,M-2006-39,Serbia and Montenegro,Ivory Coast,P-05783,Saša Ilić
+G-2439,M-2006-39,Ivory Coast,Serbia and Montenegro,P-93241,Aruna Dindane
+G-2440,M-2006-39,Ivory Coast,Serbia and Montenegro,P-93241,Aruna Dindane
+G-2441,M-2006-39,Ivory Coast,Serbia and Montenegro,P-67250,Bonaventure Kalou
+G-2442,M-2006-41,Italy,Czech Republic,P-37126,Marco Materazzi
+G-2443,M-2006-41,Italy,Czech Republic,P-29172,Filippo Inzaghi
+G-2444,M-2006-42,Ghana,United States,P-51458,Haminu Draman
+G-2445,M-2006-42,United States,Ghana,P-18672,Clint Dempsey
+G-2446,M-2006-42,Ghana,United States,P-09728,Stephen Appiah
+G-2447,M-2006-43,Croatia,Australia,P-97008,Darijo Srna
+G-2448,M-2006-43,Australia,Croatia,P-66908,Craig Moore
+G-2449,M-2006-43,Croatia,Australia,P-84378,Niko Kovač
+G-2450,M-2006-43,Australia,Croatia,P-14290,Harry Kewell
+G-2451,M-2006-44,Japan,Brazil,P-15134,Keiji Tamada
+G-2452,M-2006-44,Brazil,Japan,P-62722,not applicable Ronaldo
+G-2453,M-2006-44,Brazil,Japan,P-37735,Juninho Pernambucano
+G-2454,M-2006-44,Brazil,Japan,P-30363,not applicable Gilberto
+G-2455,M-2006-44,Brazil,Japan,P-62722,not applicable Ronaldo
+G-2456,M-2006-45,Spain,Saudi Arabia,P-51440,not applicable Juanito
+G-2457,M-2006-46,Ukraine,Tunisia,P-86650,Andriy Shevchenko
+G-2458,M-2006-47,Switzerland,South Korea,P-94161,Philippe Senderos
+G-2459,M-2006-47,Switzerland,South Korea,P-61684,Alexander Frei
+G-2460,M-2006-48,France,Togo,P-96540,Patrick Vieira
+G-2461,M-2006-48,France,Togo,P-51395,Thierry Henry
+G-2462,M-2006-49,Germany,Sweden,P-36287,Lukas Podolski
+G-2463,M-2006-49,Germany,Sweden,P-36287,Lukas Podolski
+G-2464,M-2006-50,Mexico,Argentina,P-44763,Rafael Márquez
+G-2465,M-2006-50,Argentina,Mexico,P-19888,Hernán Crespo
+G-2466,M-2006-50,Argentina,Mexico,P-33570,Maxi Rodríguez
+G-2467,M-2006-51,England,Ecuador,P-81049,David Beckham
+G-2468,M-2006-52,Portugal,Netherlands,P-17581,not applicable Maniche
+G-2469,M-2006-53,Italy,Australia,P-42038,Francesco Totti
+G-2470,M-2006-55,Brazil,Ghana,P-62722,not applicable Ronaldo
+G-2471,M-2006-55,Brazil,Ghana,P-20372,not applicable Adriano
+G-2472,M-2006-55,Brazil,Ghana,P-39545,not applicable Zé Roberto
+G-2473,M-2006-56,Spain,France,P-49097,David Villa
+G-2474,M-2006-56,France,Spain,P-55659,Franck Ribéry
+G-2475,M-2006-56,France,Spain,P-96540,Patrick Vieira
+G-2476,M-2006-56,France,Spain,P-56430,Zinedine Zidane
+G-2477,M-2006-57,Argentina,Germany,P-83403,Roberto Ayala
+G-2478,M-2006-57,Germany,Argentina,P-27787,Miroslav Klose
+G-2479,M-2006-58,Italy,Ukraine,P-42227,Gianluca Zambrotta
+G-2480,M-2006-58,Italy,Ukraine,P-96512,Luca Toni
+G-2481,M-2006-58,Italy,Ukraine,P-96512,Luca Toni
+G-2482,M-2006-60,France,Brazil,P-51395,Thierry Henry
+G-2483,M-2006-61,Italy,Germany,P-99473,Fabio Grosso
+G-2484,M-2006-61,Italy,Germany,P-83836,Alessandro Del Piero
+G-2485,M-2006-62,France,Portugal,P-56430,Zinedine Zidane
+G-2486,M-2006-63,Germany,Portugal,P-43400,Bastian Schweinsteiger
+G-2487,M-2006-63,Germany,Portugal,P-92307,not applicable Petit
+G-2488,M-2006-63,Germany,Portugal,P-43400,Bastian Schweinsteiger
+G-2489,M-2006-63,Portugal,Germany,P-57631,Nuno Gomes
+G-2490,M-2006-64,France,Italy,P-56430,Zinedine Zidane
+G-2491,M-2006-64,Italy,France,P-37126,Marco Materazzi
+G-2603,M-2010-01,South Africa,Mexico,P-31160,Siphiwe Tshabalala
+G-2604,M-2010-01,Mexico,South Africa,P-44763,Rafael Márquez
+G-2605,M-2010-03,South Korea,Greece,P-07494,Jung-soo Lee
+G-2606,M-2010-03,South Korea,Greece,P-25724,Ji-sung Park
+G-2607,M-2010-04,Argentina,Nigeria,P-64352,Gabriel Heinze
+G-2608,M-2010-05,England,United States,P-62157,Steven Gerrard
+G-2609,M-2010-05,United States,England,P-18672,Clint Dempsey
+G-2610,M-2010-06,Slovenia,Algeria,P-17662,Robert Koren
+G-2611,M-2010-07,Ghana,Serbia,P-38556,Asamoah Gyan
+G-2612,M-2010-08,Germany,Australia,P-36287,Lukas Podolski
+G-2613,M-2010-08,Germany,Australia,P-27787,Miroslav Klose
+G-2614,M-2010-08,Germany,Australia,P-28154,Thomas Müller
+G-2615,M-2010-08,Germany,Australia,P-10713,not applicable Cacau
+G-2616,M-2010-09,Netherlands,Denmark,P-52264,Daniel Agger
+G-2617,M-2010-09,Netherlands,Denmark,P-33312,Dirk Kuyt
+G-2618,M-2010-10,Japan,Cameroon,P-33175,Keisuke Honda
+G-2619,M-2010-11,Paraguay,Italy,P-87859,Antolín Alcaraz
+G-2620,M-2010-11,Italy,Paraguay,P-65802,Daniele De Rossi
+G-2621,M-2010-12,Slovakia,New Zealand,P-14764,Róbert Vittek
+G-2622,M-2010-12,New Zealand,Slovakia,P-57058,Winston Reid
+G-2623,M-2010-14,Brazil,North Korea,P-94551,not applicable Maicon
+G-2624,M-2010-14,Brazil,North Korea,P-78264,not applicable Elano
+G-2625,M-2010-14,North Korea,Brazil,P-01454,Yun-nam Ji
+G-2626,M-2010-15,Chile,Honduras,P-74480,Jean Beausejour
+G-2627,M-2010-16,Switzerland,Spain,P-77553,Gélson Fernandes
+G-2628,M-2010-17,Uruguay,South Africa,P-86087,Diego Forlán
+G-2629,M-2010-17,Uruguay,South Africa,P-86087,Diego Forlán
+G-2630,M-2010-17,Uruguay,South Africa,P-11075,Álvaro Pereira
+G-2631,M-2010-18,Argentina,South Korea,P-06608,Chu-young Park
+G-2632,M-2010-18,Argentina,South Korea,P-29398,Gonzalo Higuaín
+G-2633,M-2010-18,South Korea,Argentina,P-40927,Chung-yong Lee
+G-2634,M-2010-18,Argentina,South Korea,P-29398,Gonzalo Higuaín
+G-2635,M-2010-18,Argentina,South Korea,P-29398,Gonzalo Higuaín
+G-2636,M-2010-19,Nigeria,Greece,P-98626,Kalu Uche
+G-2637,M-2010-19,Greece,Nigeria,P-75292,Dimitris Salpingidis
+G-2638,M-2010-19,Greece,Nigeria,P-05210,Vasilis Torosidis
+G-2639,M-2010-20,Mexico,France,P-36515,Javier Hernández
+G-2640,M-2010-20,Mexico,France,P-88428,Cuauhtémoc Blanco
+G-2641,M-2010-21,Serbia,Germany,P-56515,Milan Jovanović
+G-2642,M-2010-22,Slovenia,United States,P-20008,Valter Birsa
+G-2643,M-2010-22,Slovenia,United States,P-01012,Zlatan Ljubijankić
+G-2644,M-2010-22,United States,Slovenia,P-05728,Landon Donovan
+G-2645,M-2010-22,United States,Slovenia,P-97258,Michael Bradley
+G-2646,M-2010-24,Netherlands,Japan,P-51336,Wesley Sneijder
+G-2647,M-2010-25,Australia,Ghana,P-96211,Brett Holman
+G-2648,M-2010-25,Ghana,Australia,P-38556,Asamoah Gyan
+G-2649,M-2010-26,Cameroon,Denmark,P-61703,Samuel Eto'o
+G-2650,M-2010-26,Denmark,Cameroon,P-38862,Nicklas Bendtner
+G-2651,M-2010-26,Denmark,Cameroon,P-80170,Dennis Rommedahl
+G-2652,M-2010-27,Paraguay,Slovakia,P-18210,Enrique Vera
+G-2653,M-2010-27,Paraguay,Slovakia,P-78654,Cristian Riveros
+G-2654,M-2010-28,New Zealand,Italy,P-90145,Shane Smeltz
+G-2655,M-2010-28,Italy,New Zealand,P-38599,Vincenzo Iaquinta
+G-2656,M-2010-29,Brazil,Ivory Coast,P-98528,Luís Fabiano
+G-2657,M-2010-29,Brazil,Ivory Coast,P-98528,Luís Fabiano
+G-2658,M-2010-29,Brazil,Ivory Coast,P-78264,not applicable Elano
+G-2659,M-2010-29,Ivory Coast,Brazil,P-99466,Didier Drogba
+G-2660,M-2010-30,Portugal,North Korea,P-88101,Raul Meireles
+G-2661,M-2010-30,Portugal,North Korea,P-32279,not applicable Simão
+G-2662,M-2010-30,Portugal,North Korea,P-14428,Hugo Almeida
+G-2663,M-2010-30,Portugal,North Korea,P-21434,not applicable Tiago
+G-2664,M-2010-30,Portugal,North Korea,P-28404,not applicable Liédson
+G-2665,M-2010-30,Portugal,North Korea,P-70442,Cristiano Ronaldo
+G-2666,M-2010-30,Portugal,North Korea,P-21434,not applicable Tiago
+G-2667,M-2010-31,Chile,Switzerland,P-35574,Mark González
+G-2668,M-2010-32,Spain,Honduras,P-49097,David Villa
+G-2669,M-2010-32,Spain,Honduras,P-49097,David Villa
+G-2670,M-2010-33,South Africa,France,P-61943,Bongani Khumalo
+G-2671,M-2010-33,South Africa,France,P-39078,Katlego Mphela
+G-2672,M-2010-33,France,South Africa,P-18830,Florent Malouda
+G-2673,M-2010-34,Uruguay,Mexico,P-30486,Luis Suárez
+G-2674,M-2010-35,Argentina,Greece,P-39810,Martín Demichelis
+G-2675,M-2010-35,Argentina,Greece,P-60592,Martín Palermo
+G-2676,M-2010-36,Nigeria,South Korea,P-98626,Kalu Uche
+G-2677,M-2010-36,South Korea,Nigeria,P-07494,Jung-soo Lee
+G-2678,M-2010-36,South Korea,Nigeria,P-06608,Chu-young Park
+G-2679,M-2010-36,Nigeria,South Korea,P-98373,not applicable Yakubu
+G-2680,M-2010-37,England,Slovenia,P-42890,Jermain Defoe
+G-2681,M-2010-38,United States,Algeria,P-05728,Landon Donovan
+G-2682,M-2010-39,Australia,Serbia,P-44926,Tim Cahill
+G-2683,M-2010-39,Australia,Serbia,P-96211,Brett Holman
+G-2684,M-2010-39,Serbia,Australia,P-07371,Marko Pantelić
+G-2685,M-2010-40,Germany,Ghana,P-12818,Mesut Özil
+G-2686,M-2010-42,Slovakia,Italy,P-14764,Róbert Vittek
+G-2687,M-2010-42,Slovakia,Italy,P-14764,Róbert Vittek
+G-2688,M-2010-42,Italy,Slovakia,P-75306,Antonio Di Natale
+G-2689,M-2010-42,Slovakia,Italy,P-40368,Kamil Kopúnek
+G-2690,M-2010-42,Italy,Slovakia,P-01045,Fabio Quagliarella
+G-2691,M-2010-43,Netherlands,Cameroon,P-99934,Robin van Persie
+G-2692,M-2010-43,Cameroon,Netherlands,P-61703,Samuel Eto'o
+G-2693,M-2010-43,Netherlands,Cameroon,P-64344,Klaas-Jan Huntelaar
+G-2694,M-2010-44,Japan,Denmark,P-33175,Keisuke Honda
+G-2695,M-2010-44,Japan,Denmark,P-61292,Yasuhito Endō
+G-2696,M-2010-44,Denmark,Japan,P-50534,Jon Dahl Tomasson
+G-2697,M-2010-44,Japan,Denmark,P-84807,Shinji Okazaki
+G-2698,M-2010-45,Ivory Coast,North Korea,P-44934,Yaya Touré
+G-2699,M-2010-45,Ivory Coast,North Korea,P-55581,not applicable Romaric
+G-2700,M-2010-45,Ivory Coast,North Korea,P-31976,Salomon Kalou
+G-2701,M-2010-47,Spain,Chile,P-49097,David Villa
+G-2702,M-2010-47,Spain,Chile,P-56330,Andrés Iniesta
+G-2703,M-2010-47,Chile,Spain,P-39840,Rodrigo Millar
+G-2704,M-2010-49,Uruguay,South Korea,P-30486,Luis Suárez
+G-2705,M-2010-49,South Korea,Uruguay,P-40927,Chung-yong Lee
+G-2706,M-2010-49,Uruguay,South Korea,P-30486,Luis Suárez
+G-2707,M-2010-50,Ghana,United States,P-66316,Kevin-Prince Boateng
+G-2708,M-2010-50,United States,Ghana,P-05728,Landon Donovan
+G-2709,M-2010-50,Ghana,United States,P-38556,Asamoah Gyan
+G-2710,M-2010-51,Germany,England,P-27787,Miroslav Klose
+G-2711,M-2010-51,Germany,England,P-36287,Lukas Podolski
+G-2712,M-2010-51,England,Germany,P-41152,Matthew Upson
+G-2713,M-2010-51,Germany,England,P-28154,Thomas Müller
+G-2714,M-2010-51,Germany,England,P-28154,Thomas Müller
+G-2715,M-2010-52,Argentina,Mexico,P-29080,Carlos Tevez
+G-2716,M-2010-52,Argentina,Mexico,P-29398,Gonzalo Higuaín
+G-2717,M-2010-52,Argentina,Mexico,P-29080,Carlos Tevez
+G-2718,M-2010-52,Mexico,Argentina,P-36515,Javier Hernández
+G-2719,M-2010-53,Netherlands,Slovakia,P-23705,Arjen Robben
+G-2720,M-2010-53,Netherlands,Slovakia,P-51336,Wesley Sneijder
+G-2721,M-2010-53,Slovakia,Netherlands,P-14764,Róbert Vittek
+G-2722,M-2010-54,Brazil,Chile,P-98607,not applicable Juan
+G-2723,M-2010-54,Brazil,Chile,P-98528,Luís Fabiano
+G-2724,M-2010-54,Brazil,Chile,P-13354,not applicable Robinho
+G-2725,M-2010-56,Spain,Portugal,P-49097,David Villa
+G-2726,M-2010-57,Brazil,Netherlands,P-13354,not applicable Robinho
+G-2727,M-2010-57,Netherlands,Brazil,P-51336,Wesley Sneijder
+G-2728,M-2010-57,Netherlands,Brazil,P-51336,Wesley Sneijder
+G-2729,M-2010-58,Ghana,Uruguay,P-50641,Sulley Muntari
+G-2730,M-2010-58,Uruguay,Ghana,P-86087,Diego Forlán
+G-2731,M-2010-59,Germany,Argentina,P-28154,Thomas Müller
+G-2732,M-2010-59,Germany,Argentina,P-27787,Miroslav Klose
+G-2733,M-2010-59,Germany,Argentina,P-43481,Arne Friedrich
+G-2734,M-2010-59,Germany,Argentina,P-27787,Miroslav Klose
+G-2735,M-2010-60,Spain,Paraguay,P-49097,David Villa
+G-2736,M-2010-61,Netherlands,Uruguay,P-21832,Giovanni van Bronckhorst
+G-2737,M-2010-61,Uruguay,Netherlands,P-86087,Diego Forlán
+G-2738,M-2010-61,Netherlands,Uruguay,P-51336,Wesley Sneijder
+G-2739,M-2010-61,Netherlands,Uruguay,P-23705,Arjen Robben
+G-2740,M-2010-61,Uruguay,Netherlands,P-41944,Maxi Pereira
+G-2741,M-2010-62,Spain,Germany,P-51089,Carles Puyol
+G-2742,M-2010-63,Germany,Uruguay,P-28154,Thomas Müller
+G-2743,M-2010-63,Uruguay,Germany,P-59138,Edinson Cavani
+G-2744,M-2010-63,Uruguay,Germany,P-86087,Diego Forlán
+G-2745,M-2010-63,Germany,Uruguay,P-50326,Marcell Jansen
+G-2746,M-2010-63,Germany,Uruguay,P-13029,Sami Khedira
+G-2747,M-2010-64,Spain,Netherlands,P-56330,Andrés Iniesta
+G-2834,M-2014-01,Croatia,Brazil,P-70650,not applicable Marcelo
+G-2835,M-2014-01,Brazil,Croatia,P-87008,not applicable Neymar
+G-2836,M-2014-01,Brazil,Croatia,P-87008,not applicable Neymar
+G-2837,M-2014-01,Brazil,Croatia,P-37239,not applicable Oscar
+G-2838,M-2014-02,Mexico,Cameroon,P-83642,Oribe Peralta
+G-2839,M-2014-03,Spain,Netherlands,P-73924,Xabi Alonso
+G-2840,M-2014-03,Netherlands,Spain,P-99934,Robin van Persie
+G-2841,M-2014-03,Netherlands,Spain,P-23705,Arjen Robben
+G-2842,M-2014-03,Netherlands,Spain,P-70280,Stefan de Vrij
+G-2843,M-2014-03,Netherlands,Spain,P-99934,Robin van Persie
+G-2844,M-2014-03,Netherlands,Spain,P-23705,Arjen Robben
+G-2845,M-2014-04,Chile,Australia,P-30014,Alexis Sánchez
+G-2846,M-2014-04,Chile,Australia,P-65631,Jorge Valdivia
+G-2847,M-2014-04,Australia,Chile,P-44926,Tim Cahill
+G-2848,M-2014-04,Chile,Australia,P-74480,Jean Beausejour
+G-2849,M-2014-05,Colombia,Greece,P-95402,Pablo Armero
+G-2850,M-2014-05,Colombia,Greece,P-77705,Teófilo Gutiérrez
+G-2851,M-2014-05,Colombia,Greece,P-89392,James Rodríguez
+G-2852,M-2014-06,Uruguay,Costa Rica,P-59138,Edinson Cavani
+G-2853,M-2014-06,Costa Rica,Uruguay,P-70812,Joel Campbell
+G-2854,M-2014-06,Costa Rica,Uruguay,P-97912,Óscar Duarte
+G-2855,M-2014-06,Costa Rica,Uruguay,P-11307,Marco Ureña
+G-2856,M-2014-07,Italy,England,P-37848,Claudio Marchisio
+G-2857,M-2014-07,England,Italy,P-06678,Daniel Sturridge
+G-2858,M-2014-07,Italy,England,P-16785,Mario Balotelli
+G-2859,M-2014-08,Japan,Ivory Coast,P-33175,Keisuke Honda
+G-2860,M-2014-08,Ivory Coast,Japan,P-84532,Wilfried Bony
+G-2861,M-2014-08,Ivory Coast,Japan,P-33586,not applicable Gervinho
+G-2862,M-2014-09,Ecuador,Switzerland,P-75912,Enner Valencia
+G-2863,M-2014-09,Switzerland,Ecuador,P-51579,Admir Mehmedi
+G-2864,M-2014-09,Switzerland,Ecuador,P-07180,Haris Seferovic
+G-2865,M-2014-10,France,Honduras,P-35408,Karim Benzema
+G-2866,M-2014-10,France,Honduras,P-93059,Noel Valladares
+G-2867,M-2014-10,France,Honduras,P-35408,Karim Benzema
+G-2868,M-2014-11,Argentina,Bosnia and Herzegovina,P-96934,Sead Kolašinac
+G-2869,M-2014-11,Argentina,Bosnia and Herzegovina,P-14758,Lionel Messi
+G-2870,M-2014-11,Bosnia and Herzegovina,Argentina,P-43723,Vedad Ibišević
+G-2871,M-2014-12,Germany,Portugal,P-28154,Thomas Müller
+G-2872,M-2014-12,Germany,Portugal,P-81447,Mats Hummels
+G-2873,M-2014-12,Germany,Portugal,P-28154,Thomas Müller
+G-2874,M-2014-12,Germany,Portugal,P-28154,Thomas Müller
+G-2875,M-2014-14,United States,Ghana,P-18672,Clint Dempsey
+G-2876,M-2014-14,Ghana,United States,P-01945,André Ayew
+G-2877,M-2014-14,United States,Ghana,P-41262,John Brooks
+G-2878,M-2014-15,Algeria,Belgium,P-12165,Sofiane Feghouli
+G-2879,M-2014-15,Belgium,Algeria,P-63363,Marouane Fellaini
+G-2880,M-2014-15,Belgium,Algeria,P-84852,Dries Mertens
+G-2881,M-2014-17,South Korea,Russia,P-71308,Keun-ho Lee
+G-2882,M-2014-17,Russia,South Korea,P-89971,Aleksandr Kerzhakov
+G-2883,M-2014-18,Netherlands,Australia,P-23705,Arjen Robben
+G-2884,M-2014-18,Australia,Netherlands,P-44926,Tim Cahill
+G-2885,M-2014-18,Australia,Netherlands,P-37275,Mile Jedinak
+G-2886,M-2014-18,Netherlands,Australia,P-99934,Robin van Persie
+G-2887,M-2014-18,Netherlands,Australia,P-27540,Memphis Depay
+G-2888,M-2014-19,Chile,Spain,P-36808,Eduardo Vargas
+G-2889,M-2014-19,Chile,Spain,P-22391,Charles Aránguiz
+G-2890,M-2014-20,Croatia,Cameroon,P-13265,Ivica Olić
+G-2891,M-2014-20,Croatia,Cameroon,P-93884,Ivan Perišić
+G-2892,M-2014-20,Croatia,Cameroon,P-25745,Mario Mandžukić
+G-2893,M-2014-20,Croatia,Cameroon,P-25745,Mario Mandžukić
+G-2894,M-2014-21,Colombia,Ivory Coast,P-89392,James Rodríguez
+G-2895,M-2014-21,Colombia,Ivory Coast,P-14499,Juan Fernando Quintero
+G-2896,M-2014-21,Ivory Coast,Colombia,P-33586,not applicable Gervinho
+G-2897,M-2014-22,Uruguay,England,P-30486,Luis Suárez
+G-2898,M-2014-22,England,Uruguay,P-99967,Wayne Rooney
+G-2899,M-2014-22,Uruguay,England,P-30486,Luis Suárez
+G-2900,M-2014-24,Costa Rica,Italy,P-99590,Bryan Ruiz
+G-2901,M-2014-25,France,Switzerland,P-89750,Olivier Giroud
+G-2902,M-2014-25,France,Switzerland,P-04964,Blaise Matuidi
+G-2903,M-2014-25,France,Switzerland,P-84312,Mathieu Valbuena
+G-2904,M-2014-25,France,Switzerland,P-35408,Karim Benzema
+G-2905,M-2014-25,France,Switzerland,P-07870,Moussa Sissoko
+G-2906,M-2014-25,Switzerland,France,P-35818,Blerim Džemaili
+G-2907,M-2014-25,Switzerland,France,P-77224,Granit Xhaka
+G-2908,M-2014-26,Honduras,Ecuador,P-38682,Carlo Costly
+G-2909,M-2014-26,Ecuador,Honduras,P-75912,Enner Valencia
+G-2910,M-2014-26,Ecuador,Honduras,P-75912,Enner Valencia
+G-2911,M-2014-27,Argentina,Iran,P-14758,Lionel Messi
+G-2912,M-2014-28,Germany,Ghana,P-63673,Mario Götze
+G-2913,M-2014-28,Ghana,Germany,P-01945,André Ayew
+G-2914,M-2014-28,Ghana,Germany,P-38556,Asamoah Gyan
+G-2915,M-2014-28,Germany,Ghana,P-27787,Miroslav Klose
+G-2916,M-2014-29,Nigeria,Bosnia and Herzegovina,P-70006,Peter Odemwingie
+G-2917,M-2014-30,Belgium,Russia,P-77619,Divock Origi
+G-2918,M-2014-31,Algeria,South Korea,P-59199,Islam Slimani
+G-2919,M-2014-31,Algeria,South Korea,P-19453,Rafik Halliche
+G-2920,M-2014-31,Algeria,South Korea,P-59147,Abdelmoumene Djabou
+G-2921,M-2014-31,South Korea,Algeria,P-77335,Heung-min Son
+G-2922,M-2014-31,Algeria,South Korea,P-24983,Yacine Brahimi
+G-2923,M-2014-31,South Korea,Algeria,P-47440,Ja-cheol Koo
+G-2924,M-2014-32,Portugal,United States,P-78296,not applicable Nani
+G-2925,M-2014-32,United States,Portugal,P-10072,Jermaine Jones
+G-2926,M-2014-32,United States,Portugal,P-18672,Clint Dempsey
+G-2927,M-2014-32,Portugal,United States,P-25600,Silvestre Varela
+G-2928,M-2014-33,Spain,Australia,P-49097,David Villa
+G-2929,M-2014-33,Spain,Australia,P-71661,Fernando Torres
+G-2930,M-2014-33,Spain,Australia,P-47597,Juan Mata
+G-2931,M-2014-34,Netherlands,Chile,P-20877,Leroy Fer
+G-2932,M-2014-34,Netherlands,Chile,P-27540,Memphis Depay
+G-2933,M-2014-35,Brazil,Cameroon,P-87008,not applicable Neymar
+G-2934,M-2014-35,Cameroon,Brazil,P-47974,Joël Matip
+G-2935,M-2014-35,Brazil,Cameroon,P-87008,not applicable Neymar
+G-2936,M-2014-35,Brazil,Cameroon,P-54042,not applicable Fred
+G-2937,M-2014-35,Brazil,Cameroon,P-41758,not applicable Fernandinho
+G-2938,M-2014-36,Mexico,Croatia,P-44763,Rafael Márquez
+G-2939,M-2014-36,Mexico,Croatia,P-40312,Andrés Guardado
+G-2940,M-2014-36,Mexico,Croatia,P-36515,Javier Hernández
+G-2941,M-2014-36,Croatia,Mexico,P-93884,Ivan Perišić
+G-2942,M-2014-38,Uruguay,Italy,P-78440,Diego Godín
+G-2943,M-2014-39,Colombia,Japan,P-83216,Juan Cuadrado
+G-2944,M-2014-39,Japan,Colombia,P-84807,Shinji Okazaki
+G-2945,M-2014-39,Colombia,Japan,P-01068,Jackson Martínez
+G-2946,M-2014-39,Colombia,Japan,P-01068,Jackson Martínez
+G-2947,M-2014-39,Colombia,Japan,P-89392,James Rodríguez
+G-2948,M-2014-40,Greece,Ivory Coast,P-30845,Andreas Samaris
+G-2949,M-2014-40,Ivory Coast,Greece,P-84532,Wilfried Bony
+G-2950,M-2014-40,Greece,Ivory Coast,P-58348,Georgios Samaras
+G-2951,M-2014-41,Bosnia and Herzegovina,Iran,P-31839,Edin Džeko
+G-2952,M-2014-41,Bosnia and Herzegovina,Iran,P-19478,Miralem Pjanić
+G-2953,M-2014-41,Iran,Bosnia and Herzegovina,P-85324,Reza Ghoochannejhad
+G-2954,M-2014-41,Bosnia and Herzegovina,Iran,P-35118,Avdija Vršajević
+G-2955,M-2014-42,Argentina,Nigeria,P-14758,Lionel Messi
+G-2956,M-2014-42,Nigeria,Argentina,P-19591,Ahmed Musa
+G-2957,M-2014-42,Argentina,Nigeria,P-14758,Lionel Messi
+G-2958,M-2014-42,Nigeria,Argentina,P-19591,Ahmed Musa
+G-2959,M-2014-42,Argentina,Nigeria,P-18222,Marcos Rojo
+G-2960,M-2014-43,Switzerland,Honduras,P-39460,Xherdan Shaqiri
+G-2961,M-2014-43,Switzerland,Honduras,P-39460,Xherdan Shaqiri
+G-2962,M-2014-43,Switzerland,Honduras,P-39460,Xherdan Shaqiri
+G-2963,M-2014-45,Portugal,Ghana,P-06024,John Boye
+G-2964,M-2014-45,Ghana,Portugal,P-38556,Asamoah Gyan
+G-2965,M-2014-45,Portugal,Ghana,P-70442,Cristiano Ronaldo
+G-2966,M-2014-46,Germany,United States,P-28154,Thomas Müller
+G-2967,M-2014-47,Russia,Algeria,P-67113,Aleksandr Kokorin
+G-2968,M-2014-47,Algeria,Russia,P-59199,Islam Slimani
+G-2969,M-2014-48,Belgium,South Korea,P-64049,Jan Vertonghen
+G-2970,M-2014-49,Brazil,Chile,P-87449,David Luiz
+G-2971,M-2014-49,Chile,Brazil,P-30014,Alexis Sánchez
+G-2972,M-2014-50,Colombia,Uruguay,P-89392,James Rodríguez
+G-2973,M-2014-50,Colombia,Uruguay,P-89392,James Rodríguez
+G-2974,M-2014-51,Mexico,Netherlands,P-77047,Giovani dos Santos
+G-2975,M-2014-51,Netherlands,Mexico,P-51336,Wesley Sneijder
+G-2976,M-2014-51,Netherlands,Mexico,P-64344,Klaas-Jan Huntelaar
+G-2977,M-2014-52,Costa Rica,Greece,P-99590,Bryan Ruiz
+G-2978,M-2014-52,Greece,Costa Rica,P-11436,Sokratis Papastathopoulos
+G-2979,M-2014-53,France,Nigeria,P-17509,Paul Pogba
+G-2980,M-2014-53,France,Nigeria,P-64104,Joseph Yobo
+G-2981,M-2014-54,Germany,Algeria,P-46979,André Schürrle
+G-2982,M-2014-54,Germany,Algeria,P-12818,Mesut Özil
+G-2983,M-2014-54,Algeria,Germany,P-59147,Abdelmoumene Djabou
+G-2984,M-2014-55,Argentina,Switzerland,P-42113,Ángel Di María
+G-2985,M-2014-56,Belgium,United States,P-48955,Kevin De Bruyne
+G-2986,M-2014-56,Belgium,United States,P-72637,Romelu Lukaku
+G-2987,M-2014-56,United States,Belgium,P-91438,Julian Green
+G-2988,M-2014-57,Germany,France,P-81447,Mats Hummels
+G-2989,M-2014-58,Brazil,Colombia,P-32798,Thiago Silva
+G-2990,M-2014-58,Brazil,Colombia,P-87449,David Luiz
+G-2991,M-2014-58,Colombia,Brazil,P-89392,James Rodríguez
+G-2992,M-2014-59,Argentina,Belgium,P-29398,Gonzalo Higuaín
+G-2993,M-2014-61,Germany,Brazil,P-28154,Thomas Müller
+G-2994,M-2014-61,Germany,Brazil,P-27787,Miroslav Klose
+G-2995,M-2014-61,Germany,Brazil,P-39356,Toni Kroos
+G-2996,M-2014-61,Germany,Brazil,P-39356,Toni Kroos
+G-2997,M-2014-61,Germany,Brazil,P-13029,Sami Khedira
+G-2998,M-2014-61,Germany,Brazil,P-46979,André Schürrle
+G-2999,M-2014-61,Germany,Brazil,P-46979,André Schürrle
+G-3000,M-2014-61,Brazil,Germany,P-37239,not applicable Oscar
+G-3001,M-2014-63,Netherlands,Brazil,P-99934,Robin van Persie
+G-3002,M-2014-63,Netherlands,Brazil,P-39861,Daley Blind
+G-3003,M-2014-63,Netherlands,Brazil,P-85698,Georginio Wijnaldum
+G-3004,M-2014-64,Germany,Argentina,P-63673,Mario Götze
+G-3151,M-2018-01,Russia,Saudi Arabia,P-20571,Yury Gazinsky
+G-3152,M-2018-01,Russia,Saudi Arabia,P-43675,Denis Cheryshev
+G-3153,M-2018-01,Russia,Saudi Arabia,P-37840,Artem Dzyuba
+G-3154,M-2018-01,Russia,Saudi Arabia,P-43675,Denis Cheryshev
+G-3155,M-2018-01,Russia,Saudi Arabia,P-22778,Aleksandr Golovin
+G-3156,M-2018-02,Uruguay,Egypt,P-65659,José Giménez
+G-3157,M-2018-03,Iran,Morocco,P-60872,Aziz Bouhaddouz
+G-3158,M-2018-04,Portugal,Spain,P-70442,Cristiano Ronaldo
+G-3159,M-2018-04,Spain,Portugal,P-02231,Diego Costa
+G-3160,M-2018-04,Portugal,Spain,P-70442,Cristiano Ronaldo
+G-3161,M-2018-04,Spain,Portugal,P-02231,Diego Costa
+G-3162,M-2018-04,Spain,Portugal,P-15848,not applicable Nacho
+G-3163,M-2018-04,Portugal,Spain,P-70442,Cristiano Ronaldo
+G-3164,M-2018-05,France,Australia,P-90908,Antoine Griezmann
+G-3165,M-2018-05,Australia,France,P-37275,Mile Jedinak
+G-3166,M-2018-05,France,Australia,P-51118,Aziz Behich
+G-3167,M-2018-06,Argentina,Iceland,P-36870,Sergio Agüero
+G-3168,M-2018-06,Iceland,Argentina,P-70085,Alfreð Finnbogason
+G-3169,M-2018-07,Denmark,Peru,P-08442,Yussuf Poulsen
+G-3170,M-2018-08,Croatia,Nigeria,P-62455,Peter Etebo
+G-3171,M-2018-08,Croatia,Nigeria,P-29491,Luka Modrić
+G-3172,M-2018-09,Serbia,Costa Rica,P-33059,Aleksandar Kolarov
+G-3173,M-2018-10,Mexico,Germany,P-24705,Hirving Lozano
+G-3174,M-2018-11,Brazil,Switzerland,P-37171,Philippe Coutinho
+G-3175,M-2018-11,Switzerland,Brazil,P-71840,Steven Zuber
+G-3176,M-2018-12,Sweden,South Korea,P-34998,Andreas Granqvist
+G-3177,M-2018-13,Belgium,Panama,P-84852,Dries Mertens
+G-3178,M-2018-13,Belgium,Panama,P-72637,Romelu Lukaku
+G-3179,M-2018-13,Belgium,Panama,P-72637,Romelu Lukaku
+G-3180,M-2018-14,England,Tunisia,P-58924,Harry Kane
+G-3181,M-2018-14,Tunisia,England,P-90867,Ferjani Sassi
+G-3182,M-2018-14,England,Tunisia,P-58924,Harry Kane
+G-3183,M-2018-15,Japan,Colombia,P-36964,Shinji Kagawa
+G-3184,M-2018-15,Colombia,Japan,P-14499,Juan Fernando Quintero
+G-3185,M-2018-15,Japan,Colombia,P-23371,Yuya Osako
+G-3186,M-2018-16,Senegal,Poland,P-40820,Thiago Cionek
+G-3187,M-2018-16,Senegal,Poland,P-23774,M'Baye Niang
+G-3188,M-2018-16,Poland,Senegal,P-45449,Grzegorz Krychowiak
+G-3189,M-2018-17,Russia,Egypt,P-44093,Ahmed Fathy
+G-3190,M-2018-17,Russia,Egypt,P-43675,Denis Cheryshev
+G-3191,M-2018-17,Russia,Egypt,P-37840,Artem Dzyuba
+G-3192,M-2018-17,Egypt,Russia,P-75890,Mohamed Salah
+G-3193,M-2018-18,Portugal,Morocco,P-70442,Cristiano Ronaldo
+G-3194,M-2018-19,Uruguay,Saudi Arabia,P-30486,Luis Suárez
+G-3195,M-2018-20,Spain,Iran,P-02231,Diego Costa
+G-3196,M-2018-21,Denmark,Australia,P-50104,Christian Eriksen
+G-3197,M-2018-21,Australia,Denmark,P-37275,Mile Jedinak
+G-3198,M-2018-22,France,Peru,P-64077,Kylian Mbappé
+G-3199,M-2018-23,Croatia,Argentina,P-44463,Ante Rebić
+G-3200,M-2018-23,Croatia,Argentina,P-29491,Luka Modrić
+G-3201,M-2018-23,Croatia,Argentina,P-65979,Ivan Rakitić
+G-3202,M-2018-24,Brazil,Costa Rica,P-37171,Philippe Coutinho
+G-3203,M-2018-24,Brazil,Costa Rica,P-87008,not applicable Neymar
+G-3204,M-2018-25,Nigeria,Iceland,P-19591,Ahmed Musa
+G-3205,M-2018-25,Nigeria,Iceland,P-19591,Ahmed Musa
+G-3206,M-2018-26,Serbia,Switzerland,P-85696,Aleksandar Mitrović
+G-3207,M-2018-26,Switzerland,Serbia,P-77224,Granit Xhaka
+G-3208,M-2018-26,Switzerland,Serbia,P-39460,Xherdan Shaqiri
+G-3209,M-2018-27,Belgium,Tunisia,P-72011,Eden Hazard
+G-3210,M-2018-27,Belgium,Tunisia,P-72637,Romelu Lukaku
+G-3211,M-2018-27,Tunisia,Belgium,P-11879,Dylan Bronn
+G-3212,M-2018-27,Belgium,Tunisia,P-72637,Romelu Lukaku
+G-3213,M-2018-27,Belgium,Tunisia,P-72011,Eden Hazard
+G-3214,M-2018-27,Belgium,Tunisia,P-13975,Michy Batshuayi
+G-3215,M-2018-27,Tunisia,Belgium,P-42223,Wahbi Khazri
+G-3216,M-2018-28,Mexico,South Korea,P-68042,Carlos Vela
+G-3217,M-2018-28,Mexico,South Korea,P-36515,Javier Hernández
+G-3218,M-2018-28,South Korea,Mexico,P-77335,Heung-min Son
+G-3219,M-2018-29,Sweden,Germany,P-10221,Ola Toivonen
+G-3220,M-2018-29,Germany,Sweden,P-94447,Marco Reus
+G-3221,M-2018-29,Germany,Sweden,P-39356,Toni Kroos
+G-3222,M-2018-30,England,Panama,P-92628,John Stones
+G-3223,M-2018-30,England,Panama,P-58924,Harry Kane
+G-3224,M-2018-30,England,Panama,P-63620,Jesse Lingard
+G-3225,M-2018-30,England,Panama,P-92628,John Stones
+G-3226,M-2018-30,England,Panama,P-58924,Harry Kane
+G-3227,M-2018-30,England,Panama,P-58924,Harry Kane
+G-3228,M-2018-30,Panama,England,P-76368,Felipe Baloy
+G-3229,M-2018-31,Senegal,Japan,P-79299,Sadio Mané
+G-3230,M-2018-31,Japan,Senegal,P-89984,Takashi Inui
+G-3231,M-2018-31,Senegal,Japan,P-57411,Moussa Wagué
+G-3232,M-2018-31,Japan,Senegal,P-33175,Keisuke Honda
+G-3233,M-2018-32,Colombia,Poland,P-43196,Yerry Mina
+G-3234,M-2018-32,Colombia,Poland,P-74655,Radamel Falcao
+G-3235,M-2018-32,Colombia,Poland,P-83216,Juan Cuadrado
+G-3236,M-2018-33,Egypt,Saudi Arabia,P-75890,Mohamed Salah
+G-3237,M-2018-33,Saudi Arabia,Egypt,P-93688,Salman Al-Faraj
+G-3238,M-2018-33,Saudi Arabia,Egypt,P-70583,Salem Al-Dawsari
+G-3239,M-2018-34,Uruguay,Russia,P-30486,Luis Suárez
+G-3240,M-2018-34,Uruguay,Russia,P-43675,Denis Cheryshev
+G-3241,M-2018-34,Uruguay,Russia,P-59138,Edinson Cavani
+G-3242,M-2018-35,Morocco,Spain,P-15199,Khalid Boutaïb
+G-3243,M-2018-35,Spain,Morocco,P-52418,not applicable Isco
+G-3244,M-2018-35,Morocco,Spain,P-42517,Youssef En-Nesyri
+G-3245,M-2018-35,Spain,Morocco,P-60554,Iago Aspas
+G-3246,M-2018-36,Portugal,Iran,P-95670,Ricardo Quaresma
+G-3247,M-2018-36,Iran,Portugal,P-53957,Karim Ansarifard
+G-3248,M-2018-37,Peru,Australia,P-39610,André Carrillo
+G-3249,M-2018-37,Peru,Australia,P-29117,Paolo Guerrero
+G-3250,M-2018-39,Croatia,Iceland,P-77789,Milan Badelj
+G-3251,M-2018-39,Iceland,Croatia,P-83367,Gylfi Sigurðsson
+G-3252,M-2018-39,Croatia,Iceland,P-93884,Ivan Perišić
+G-3253,M-2018-40,Argentina,Nigeria,P-14758,Lionel Messi
+G-3254,M-2018-40,Nigeria,Argentina,P-26900,Victor Moses
+G-3255,M-2018-40,Argentina,Nigeria,P-18222,Marcos Rojo
+G-3256,M-2018-41,South Korea,Germany,P-07259,Young-gwon Kim
+G-3257,M-2018-41,South Korea,Germany,P-77335,Heung-min Son
+G-3258,M-2018-42,Sweden,Mexico,P-30993,Ludwig Augustinsson
+G-3259,M-2018-42,Sweden,Mexico,P-34998,Andreas Granqvist
+G-3260,M-2018-42,Sweden,Mexico,P-26546,Edson Álvarez
+G-3261,M-2018-43,Brazil,Serbia,P-54013,not applicable Paulinho
+G-3262,M-2018-43,Brazil,Serbia,P-32798,Thiago Silva
+G-3263,M-2018-44,Switzerland,Costa Rica,P-35818,Blerim Džemaili
+G-3264,M-2018-44,Costa Rica,Switzerland,P-37984,Kendall Waston
+G-3265,M-2018-44,Switzerland,Costa Rica,P-07453,Josip Drmić
+G-3266,M-2018-44,Costa Rica,Switzerland,P-63312,Yann Sommer
+G-3267,M-2018-45,Poland,Japan,P-10172,Jan Bednarek
+G-3268,M-2018-46,Colombia,Senegal,P-43196,Yerry Mina
+G-3269,M-2018-47,Belgium,England,P-15896,Adnan Januzaj
+G-3270,M-2018-48,Panama,Tunisia,P-81706,Yassine Meriah
+G-3271,M-2018-48,Tunisia,Panama,P-94563,Fakhreddine Ben Youssef
+G-3272,M-2018-48,Tunisia,Panama,P-42223,Wahbi Khazri
+G-3273,M-2018-49,France,Argentina,P-90908,Antoine Griezmann
+G-3274,M-2018-49,Argentina,France,P-42113,Ángel Di María
+G-3275,M-2018-49,Argentina,France,P-32508,Gabriel Mercado
+G-3276,M-2018-49,France,Argentina,P-60652,Benjamin Pavard
+G-3277,M-2018-49,France,Argentina,P-64077,Kylian Mbappé
+G-3278,M-2018-49,France,Argentina,P-64077,Kylian Mbappé
+G-3279,M-2018-49,Argentina,France,P-36870,Sergio Agüero
+G-3280,M-2018-50,Uruguay,Portugal,P-59138,Edinson Cavani
+G-3281,M-2018-50,Portugal,Uruguay,P-81972,not applicable Pepe
+G-3282,M-2018-50,Uruguay,Portugal,P-59138,Edinson Cavani
+G-3283,M-2018-51,Spain,Russia,P-79763,Sergei Ignashevich
+G-3284,M-2018-51,Russia,Spain,P-37840,Artem Dzyuba
+G-3285,M-2018-52,Denmark,Croatia,P-61976,Mathias Jørgensen
+G-3286,M-2018-52,Croatia,Denmark,P-25745,Mario Mandžukić
+G-3287,M-2018-53,Brazil,Mexico,P-87008,not applicable Neymar
+G-3288,M-2018-53,Brazil,Mexico,P-37877,Roberto Firmino
+G-3289,M-2018-54,Japan,Belgium,P-54138,Genki Haraguchi
+G-3290,M-2018-54,Japan,Belgium,P-89984,Takashi Inui
+G-3291,M-2018-54,Belgium,Japan,P-64049,Jan Vertonghen
+G-3292,M-2018-54,Belgium,Japan,P-63363,Marouane Fellaini
+G-3293,M-2018-54,Belgium,Japan,P-69919,Nacer Chadli
+G-3294,M-2018-55,Sweden,Switzerland,P-04686,Emil Forsberg
+G-3295,M-2018-56,England,Colombia,P-58924,Harry Kane
+G-3296,M-2018-56,Colombia,England,P-43196,Yerry Mina
+G-3297,M-2018-57,France,Uruguay,P-42326,Raphaël Varane
+G-3298,M-2018-57,France,Uruguay,P-90908,Antoine Griezmann
+G-3299,M-2018-58,Belgium,Brazil,P-41758,not applicable Fernandinho
+G-3300,M-2018-58,Belgium,Brazil,P-48955,Kevin De Bruyne
+G-3301,M-2018-58,Brazil,Belgium,P-49997,Renato Augusto
+G-3302,M-2018-59,England,Sweden,P-02465,Harry Maguire
+G-3303,M-2018-59,England,Sweden,P-83363,Dele Alli
+G-3304,M-2018-60,Russia,Croatia,P-43675,Denis Cheryshev
+G-3305,M-2018-60,Croatia,Russia,P-65182,Andrej Kramarić
+G-3306,M-2018-60,Croatia,Russia,P-91294,Domagoj Vida
+G-3307,M-2018-60,Russia,Croatia,P-17872,Mário Fernandes
+G-3308,M-2018-61,France,Belgium,P-67297,Samuel Umtiti
+G-3309,M-2018-62,England,Croatia,P-25937,Kieran Trippier
+G-3310,M-2018-62,Croatia,England,P-93884,Ivan Perišić
+G-3311,M-2018-62,Croatia,England,P-25745,Mario Mandžukić
+G-3312,M-2018-63,Belgium,England,P-22930,Thomas Meunier
+G-3313,M-2018-63,Belgium,England,P-72011,Eden Hazard
+G-3314,M-2018-64,France,Croatia,P-25745,Mario Mandžukić
+G-3315,M-2018-64,Croatia,France,P-93884,Ivan Perišić
+G-3316,M-2018-64,France,Croatia,P-90908,Antoine Griezmann
+G-3317,M-2018-64,France,Croatia,P-17509,Paul Pogba
+G-3318,M-2018-64,France,Croatia,P-64077,Kylian Mbappé
+G-3319,M-2018-64,Croatia,France,P-25745,Mario Mandžukić
+G-3466,M-2022-01,Ecuador,Qatar,P-75912,Enner Valencia
+G-3467,M-2022-01,Ecuador,Qatar,P-75912,Enner Valencia
+G-3468,M-2022-02,England,Iran,P-15674,Jude Bellingham
+G-3469,M-2022-02,England,Iran,P-76842,Bukayo Saka
+G-3470,M-2022-02,England,Iran,P-21553,Raheem Sterling
+G-3471,M-2022-02,England,Iran,P-76842,Bukayo Saka
+G-3472,M-2022-02,Iran,England,P-85860,Mehdi Taremi
+G-3473,M-2022-02,England,Iran,P-59837,Marcus Rashford
+G-3474,M-2022-02,England,Iran,P-21153,Jack Grealish
+G-3475,M-2022-02,Iran,England,P-85860,Mehdi Taremi
+G-3476,M-2022-03,Netherlands,Senegal,P-28911,Cody Gakpo
+G-3477,M-2022-03,Netherlands,Senegal,P-42078,Davy Klaassen
+G-3478,M-2022-04,United States,Wales,P-30252,Timothy Weah
+G-3479,M-2022-04,Wales,United States,P-63927,Gareth Bale
+G-3480,M-2022-05,Argentina,Saudi Arabia,P-14758,Lionel Messi
+G-3481,M-2022-05,Saudi Arabia,Argentina,P-37308,Saleh Al-Shehri
+G-3482,M-2022-05,Saudi Arabia,Argentina,P-70583,Salem Al-Dawsari
+G-3483,M-2022-08,Australia,France,P-82010,Craig Goodwin
+G-3484,M-2022-08,France,Australia,P-57401,Adrien Rabiot
+G-3485,M-2022-08,France,Australia,P-89750,Olivier Giroud
+G-3486,M-2022-08,France,Australia,P-64077,Kylian Mbappé
+G-3487,M-2022-08,France,Australia,P-89750,Olivier Giroud
+G-3488,M-2022-10,Germany,Japan,P-08896,İlkay Gündoğan
+G-3489,M-2022-10,Japan,Germany,P-58907,Ritsu Dōan
+G-3490,M-2022-10,Japan,Germany,P-46913,Takuma Asano
+G-3491,M-2022-11,Spain,Costa Rica,P-40007,Dani Olmo
+G-3492,M-2022-11,Spain,Costa Rica,P-09400,Marco Asensio
+G-3493,M-2022-11,Spain,Costa Rica,P-31301,Ferran Torres
+G-3494,M-2022-11,Spain,Costa Rica,P-31301,Ferran Torres
+G-3495,M-2022-11,Spain,Costa Rica,P-88433,not applicable Gavi
+G-3496,M-2022-11,Spain,Costa Rica,P-30405,Carlos Soler
+G-3497,M-2022-11,Spain,Costa Rica,P-29274,Álvaro Morata
+G-3498,M-2022-12,Belgium,Canada,P-13975,Michy Batshuayi
+G-3499,M-2022-13,Switzerland,Cameroon,P-19075,Breel Embolo
+G-3500,M-2022-15,Portugal,Ghana,P-70442,Cristiano Ronaldo
+G-3501,M-2022-15,Ghana,Portugal,P-01945,André Ayew
+G-3502,M-2022-15,Portugal,Ghana,P-17931,João Félix
+G-3503,M-2022-15,Portugal,Ghana,P-27349,Rafael Leão
+G-3504,M-2022-15,Ghana,Portugal,P-72363,Osman Bukari
+G-3505,M-2022-16,Brazil,Serbia,P-68016,not applicable Richarlison
+G-3506,M-2022-16,Brazil,Serbia,P-68016,not applicable Richarlison
+G-3507,M-2022-17,Iran,Wales,P-98747,Rouzbeh Cheshmi
+G-3508,M-2022-17,Iran,Wales,P-47137,Ramin Rezaeian
+G-3509,M-2022-18,Senegal,Qatar,P-33622,Boulaye Dia
+G-3510,M-2022-18,Senegal,Qatar,P-27280,Famara Diédhiou
+G-3511,M-2022-18,Qatar,Senegal,P-17048,Mohammed Muntari
+G-3512,M-2022-18,Senegal,Qatar,P-88928,Bamba Dieng
+G-3513,M-2022-19,Netherlands,Ecuador,P-28911,Cody Gakpo
+G-3514,M-2022-19,Ecuador,Netherlands,P-75912,Enner Valencia
+G-3515,M-2022-21,Australia,Tunisia,P-91029,Mitchell Duke
+G-3516,M-2022-22,Poland,Saudi Arabia,P-32165,Piotr Zieliński
+G-3517,M-2022-22,Poland,Saudi Arabia,P-00549,Robert Lewandowski
+G-3518,M-2022-23,France,Denmark,P-64077,Kylian Mbappé
+G-3519,M-2022-23,Denmark,France,P-18923,Andreas Christensen
+G-3520,M-2022-23,France,Denmark,P-64077,Kylian Mbappé
+G-3521,M-2022-24,Argentina,Mexico,P-14758,Lionel Messi
+G-3522,M-2022-24,Argentina,Mexico,P-10739,Enzo Fernández
+G-3523,M-2022-25,Costa Rica,Japan,P-80986,Keysher Fuller
+G-3524,M-2022-26,Morocco,Belgium,P-26068,Romain Saïss
+G-3525,M-2022-26,Morocco,Belgium,P-48295,Zakaria Aboukhlal
+G-3526,M-2022-27,Canada,Croatia,P-46358,Alphonso Davies
+G-3527,M-2022-27,Croatia,Canada,P-65182,Andrej Kramarić
+G-3528,M-2022-27,Croatia,Canada,P-31643,Marko Livaja
+G-3529,M-2022-27,Croatia,Canada,P-65182,Andrej Kramarić
+G-3530,M-2022-27,Croatia,Canada,P-64353,Lovro Majer
+G-3531,M-2022-28,Spain,Germany,P-29274,Álvaro Morata
+G-3532,M-2022-28,Germany,Spain,P-46246,Niclas Füllkrug
+G-3533,M-2022-29,Cameroon,Serbia,P-59303,Jean-Charles Castelletto
+G-3534,M-2022-29,Serbia,Cameroon,P-98435,Strahinja Pavlović
+G-3535,M-2022-29,Serbia,Cameroon,P-27744,Sergej Milinković-Savić
+G-3536,M-2022-29,Serbia,Cameroon,P-85696,Aleksandar Mitrović
+G-3537,M-2022-29,Cameroon,Serbia,P-53452,Vincent Aboubakar
+G-3538,M-2022-29,Cameroon,Serbia,P-06117,Eric Maxim Choupo-Moting
+G-3539,M-2022-30,Ghana,South Korea,P-50142,Mohammed Salisu
+G-3540,M-2022-30,Ghana,South Korea,P-23821,Mohammed Kudus
+G-3541,M-2022-30,South Korea,Ghana,P-87169,Cho Gue-sung
+G-3542,M-2022-30,South Korea,Ghana,P-87169,Cho Gue-sung
+G-3543,M-2022-30,Ghana,South Korea,P-23821,Mohammed Kudus
+G-3544,M-2022-31,Brazil,Switzerland,P-02305,not applicable Casemiro
+G-3545,M-2022-32,Portugal,Uruguay,P-39584,Bruno Fernandes
+G-3546,M-2022-32,Portugal,Uruguay,P-39584,Bruno Fernandes
+G-3547,M-2022-33,Senegal,Ecuador,P-37935,Ismaïla Sarr
+G-3548,M-2022-33,Ecuador,Senegal,P-82216,Moisés Caicedo
+G-3549,M-2022-33,Senegal,Ecuador,P-47321,Kalidou Koulibaly
+G-3550,M-2022-34,Netherlands,Qatar,P-28911,Cody Gakpo
+G-3551,M-2022-34,Netherlands,Qatar,P-17688,Frenkie de Jong
+G-3552,M-2022-35,United States,Iran,P-11737,Christian Pulisic
+G-3553,M-2022-36,England,Wales,P-59837,Marcus Rashford
+G-3554,M-2022-36,England,Wales,P-10501,Phil Foden
+G-3555,M-2022-36,England,Wales,P-59837,Marcus Rashford
+G-3556,M-2022-37,Australia,Denmark,P-35837,Mathew Leckie
+G-3557,M-2022-38,Tunisia,France,P-42223,Wahbi Khazri
+G-3558,M-2022-39,Argentina,Poland,P-71343,Alexis Mac Allister
+G-3559,M-2022-39,Argentina,Poland,P-19776,Julián Álvarez
+G-3560,M-2022-40,Mexico,Saudi Arabia,P-49482,Henry Martín
+G-3561,M-2022-40,Mexico,Saudi Arabia,P-49806,Luis Chávez
+G-3562,M-2022-40,Saudi Arabia,Mexico,P-70583,Salem Al-Dawsari
+G-3563,M-2022-41,Morocco,Canada,P-70715,Hakim Ziyech
+G-3564,M-2022-41,Morocco,Canada,P-42517,Youssef En-Nesyri
+G-3565,M-2022-41,Canada,Morocco,P-47490,Nayef Aguerd
+G-3566,M-2022-43,Germany,Costa Rica,P-75989,Serge Gnabry
+G-3567,M-2022-43,Costa Rica,Germany,P-24978,Yeltsin Tejeda
+G-3568,M-2022-43,Costa Rica,Germany,P-65777,Juan Pablo Vargas
+G-3569,M-2022-43,Germany,Costa Rica,P-77743,Kai Havertz
+G-3570,M-2022-43,Germany,Costa Rica,P-77743,Kai Havertz
+G-3571,M-2022-43,Germany,Costa Rica,P-46246,Niclas Füllkrug
+G-3572,M-2022-44,Spain,Japan,P-29274,Álvaro Morata
+G-3573,M-2022-44,Japan,Spain,P-58907,Ritsu Dōan
+G-3574,M-2022-44,Japan,Spain,P-82447,Ao Tanaka
+G-3575,M-2022-45,Uruguay,Ghana,P-62594,Giorgian De Arrascaeta
+G-3576,M-2022-45,Uruguay,Ghana,P-62594,Giorgian De Arrascaeta
+G-3577,M-2022-46,Portugal,South Korea,P-05304,Ricardo Horta
+G-3578,M-2022-46,South Korea,Portugal,P-07259,Young-gwon Kim
+G-3579,M-2022-46,South Korea,Portugal,P-58692,Hee-chan Hwang
+G-3580,M-2022-47,Cameroon,Brazil,P-53452,Vincent Aboubakar
+G-3581,M-2022-48,Switzerland,Serbia,P-39460,Xherdan Shaqiri
+G-3582,M-2022-48,Serbia,Switzerland,P-85696,Aleksandar Mitrović
+G-3583,M-2022-48,Serbia,Switzerland,P-63293,Dušan Vlahović
+G-3584,M-2022-48,Switzerland,Serbia,P-19075,Breel Embolo
+G-3585,M-2022-48,Switzerland,Serbia,P-68060,Remo Freuler
+G-3586,M-2022-49,Netherlands,United States,P-27540,Memphis Depay
+G-3587,M-2022-49,Netherlands,United States,P-39861,Daley Blind
+G-3588,M-2022-49,United States,Netherlands,P-68131,Haji Wright
+G-3589,M-2022-49,Netherlands,United States,P-97615,Denzel Dumfries
+G-3590,M-2022-50,Argentina,Australia,P-14758,Lionel Messi
+G-3591,M-2022-50,Argentina,Australia,P-19776,Julián Álvarez
+G-3592,M-2022-50,Australia,Argentina,P-10739,Enzo Fernández
+G-3593,M-2022-51,France,Poland,P-89750,Olivier Giroud
+G-3594,M-2022-51,France,Poland,P-64077,Kylian Mbappé
+G-3595,M-2022-51,France,Poland,P-64077,Kylian Mbappé
+G-3596,M-2022-51,Poland,France,P-00549,Robert Lewandowski
+G-3597,M-2022-52,England,Senegal,P-08169,Jordan Henderson
+G-3598,M-2022-52,England,Senegal,P-58924,Harry Kane
+G-3599,M-2022-52,England,Senegal,P-76842,Bukayo Saka
+G-3600,M-2022-53,Japan,Croatia,P-30206,Daizen Maeda
+G-3601,M-2022-53,Croatia,Japan,P-93884,Ivan Perišić
+G-3602,M-2022-54,Brazil,South Korea,P-92812,Vinícius Júnior
+G-3603,M-2022-54,Brazil,South Korea,P-87008,not applicable Neymar
+G-3604,M-2022-54,Brazil,South Korea,P-68016,not applicable Richarlison
+G-3605,M-2022-54,Brazil,South Korea,P-05164,Lucas Paquetá
+G-3606,M-2022-54,South Korea,Brazil,P-32599,Paik Seung-ho
+G-3607,M-2022-56,Portugal,Switzerland,P-41647,Gonçalo Ramos
+G-3608,M-2022-56,Portugal,Switzerland,P-81972,not applicable Pepe
+G-3609,M-2022-56,Portugal,Switzerland,P-41647,Gonçalo Ramos
+G-3610,M-2022-56,Portugal,Switzerland,P-67578,Raphaël Guerreiro
+G-3611,M-2022-56,Switzerland,Portugal,P-23925,Manuel Akanji
+G-3612,M-2022-56,Portugal,Switzerland,P-41647,Gonçalo Ramos
+G-3613,M-2022-56,Portugal,Switzerland,P-27349,Rafael Leão
+G-3614,M-2022-57,Brazil,Croatia,P-87008,not applicable Neymar
+G-3615,M-2022-57,Croatia,Brazil,P-46461,Bruno Petković
+G-3616,M-2022-58,Argentina,Netherlands,P-84430,Nahuel Molina
+G-3617,M-2022-58,Argentina,Netherlands,P-14758,Lionel Messi
+G-3618,M-2022-58,Netherlands,Argentina,P-95036,Wout Weghorst
+G-3619,M-2022-58,Netherlands,Argentina,P-95036,Wout Weghorst
+G-3620,M-2022-59,Morocco,Portugal,P-42517,Youssef En-Nesyri
+G-3621,M-2022-60,France,England,P-54517,Aurélien Tchouaméni
+G-3622,M-2022-60,England,France,P-58924,Harry Kane
+G-3623,M-2022-60,France,England,P-89750,Olivier Giroud
+G-3624,M-2022-61,Argentina,Croatia,P-14758,Lionel Messi
+G-3625,M-2022-61,Argentina,Croatia,P-19776,Julián Álvarez
+G-3626,M-2022-61,Argentina,Croatia,P-19776,Julián Álvarez
+G-3627,M-2022-62,France,Morocco,P-09867,Théo Hernandez
+G-3628,M-2022-62,France,Morocco,P-92987,Randal Kolo Muani
+G-3629,M-2022-63,Croatia,Morocco,P-58420,Joško Gvardiol
+G-3630,M-2022-63,Morocco,Croatia,P-52013,Achraf Dari
+G-3631,M-2022-63,Croatia,Morocco,P-26942,Mislav Oršić
+G-3632,M-2022-64,Argentina,France,P-14758,Lionel Messi
+G-3633,M-2022-64,Argentina,France,P-42113,Ángel Di María
+G-3634,M-2022-64,France,Argentina,P-64077,Kylian Mbappé
+G-3635,M-2022-64,France,Argentina,P-64077,Kylian Mbappé
+G-3636,M-2022-64,Argentina,France,P-14758,Lionel Messi
+G-3637,M-2022-64,France,Argentina,P-64077,Kylian Mbappé
