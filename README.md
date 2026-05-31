@@ -196,6 +196,7 @@ flowchart LR
     D --> I
     I --> J[predictions/predictions_2026_knockout_matches.csv]
     I --> K[predictions/predictions_2026_knockout_matches_complete.csv]
+    I --> K[predictions/predictions_2026_scoreboard.txt]
 ```
 
 
@@ -220,7 +221,10 @@ only the prediction step needs to be executed, by running the following notebook
 - `prediction_group_matches.ipynb`
 - `data_analysis_to_aggregate_group_winners.ipynb`
 - `prediction_knock_out_matches.ipynb`
-3. Check the winner of the worldcup in the output of the last notebook executed or view the output cvs in the predictions folder.
+3. Check the winner of the worldcup 
+- View the output of the last notebook executed or analyze the output files in the predictions folder.
+  - [scoreboard](./predictions/predictions_2026_scoreboard.txt)
+  - [knockout matches](./predictions/predictions_2026_knockout_matches_complete.csv)
 
 
 
