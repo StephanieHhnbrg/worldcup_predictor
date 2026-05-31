@@ -179,24 +179,46 @@ For more realistic output, the region average or external ratings could have bee
 
 
 ```mermaid
-flowchart LR  
+flowchart TB
+
     A[matches/2026_group_matches.csv] --> E[prediction_group_matches.ipynb]
     B[model/team_stats.csv] --> E
     C[model/worldcup_model.pkl] --> E
     D[model/feature_columns.pkl] --> E
     E --> F[predictions/predictions_2026_group_matches.csv]
+
+    H[matches/2026_knockout_matches.csv] --> G[data_analysis_to_aggregate_group_winners.ipynb]
+    F --> G
+    G --> M[predictions/predictions_2026_group_wins.csv]
+    G --> J[predictions/predictions_2026_knockout_matches.csv]
     
-    F --> G[data_analysis_to_aggregate_group_winners.ipynb]
-    H[matches/2026_knockout_matches.csv] --> G
-    G --> H
-    
-    H --> I[prediction_knock_out_matches.ipynb]
+    J --> I[prediction_knock_out_matches.ipynb]
     B --> I
     C --> I
     D --> I
-    I --> J[predictions/predictions_2026_knockout_matches.csv]
+    
     I --> K[predictions/predictions_2026_knockout_matches_complete.csv]
-    I --> K[predictions/predictions_2026_scoreboard.txt]
+    I --> L[predictions/predictions_2026_scoreboard.txt]
+
+    subgraph Legend
+        direction LR
+        LEG1[Input Data] ~~~ LEG2[Model Files]
+        LEG2 ~~~ LEG3[Notebooks]
+        LEG3 ~~~ LEG4[Prediction Output]
+    end
+
+     K ~~~ Legend
+
+
+    classDef data fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#000
+    classDef notebook fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#000
+    classDef prediction fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#000
+    classDef model fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#000
+
+    class LEG1,A,H data
+    class LEG2,B,C,D model
+    class LEG3,E,G,I notebook
+    class LEG4,F,J,K,L,M prediction
 ```
 
 
