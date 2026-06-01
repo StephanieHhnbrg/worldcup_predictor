@@ -145,13 +145,13 @@ The dataset is split into training and testing subsets using an 80/20 ratio.
 
 Users can select from the following machine learning models for training:
 
-| Model                            | Type                                  | Strengths                                                                                            | Weaknesses                                                 | Training Speed | Interpretability | Best Use Cases                                                     |
-| -------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------- | ---------------- | ------------------------------------------------------------------ |
-| `LogisticRegression`             | Linear model                          | Simple, fast, easy to interpret, works well with linearly separable data                             | Limited ability to capture complex relationships           | Very Fast      | High             | Baseline models, interpretable predictions, smaller datasets       |
-| `RandomForestClassifier`         | Ensemble (Bagging / Decision Trees)   | Handles nonlinear relationships, robust to overfitting, works well with mixed features               | Larger models, slower inference, less interpretable        | Medium         | Medium-Low       | General-purpose classification, tabular datasets                   |
-| `ExtraTreesClassifier`           | Ensemble (Extremely Randomized Trees) | Faster than Random Forest, reduces variance, handles nonlinear relationships well                    | Can be noisier due to additional randomness                | Fast           | Medium-Low       | Strong baseline for feature-rich tabular data                      |
-| `GradientBoostingClassifier`     | Ensemble (Boosting)                   | Often higher accuracy than bagging methods, captures complex patterns                                | Can overfit, slower training, sensitive to hyperparameters | Slow           | Low              | Structured/tabular data where accuracy is prioritized              |
-| `HistGradientBoostingClassifier` | Histogram-based Gradient Boosting     | Faster and more memory efficient than classic gradient boosting                                      | Less interpretable, tuning still required                  | Fast           | Low              | Medium-to-large tabular datasets                                   |
+| Model                                    | Type                                  | Strengths                                                                                            | Weaknesses                                                 | Training Speed | Interpretability | Best Use Cases                                                     |
+|------------------------------------------| ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------- | ---------------- | ------------------------------------------------------------------ |
+| `Logistic Regression`                    | Linear model                          | Simple, fast, easy to interpret, works well with linearly separable data                             | Limited ability to capture complex relationships           | Very Fast      | High             | Baseline models, interpretable predictions, smaller datasets       |
+| `Random Forest Classifier`               | Ensemble (Bagging / Decision Trees)   | Handles nonlinear relationships, robust to overfitting, works well with mixed features               | Larger models, slower inference, less interpretable        | Medium         | Medium-Low       | General-purpose classification, tabular datasets                   |
+| `ExtraTrees Classifier`                  | Ensemble (Extremely Randomized Trees) | Faster than Random Forest, reduces variance, handles nonlinear relationships well                    | Can be noisier due to additional randomness                | Fast           | Medium-Low       | Strong baseline for feature-rich tabular data                      |
+| `Gradient Boosting Classifier`           | Ensemble (Boosting)                   | Often higher accuracy than bagging methods, captures complex patterns                                | Can overfit, slower training, sensitive to hyperparameters | Slow           | Low              | Structured/tabular data where accuracy is prioritized              |
+| `Histogram Gradient Boosting Classifier` | Histogram-based Gradient Boosting     | Faster and more memory efficient than classic gradient boosting                                      | Less interpretable, tuning still required                  | Fast           | Low              | Medium-to-large tabular datasets                                   |
 
 
 ```mermaid
@@ -227,13 +227,52 @@ flowchart TB
     class LEG4,F,J,K,L,M prediction
 ```
 
+## Model evaluation
+With the notebook `train_all_models_and_evaluate.ipynb`, the models are trained with the same data split to ensure a fair comparison.
+
+Performance is evaluated using the following metrics:
+* Accuracy - proportion of all predictions that are correct
+* Precision - Of all the times the model predicted a positive outcome, how many were actually positive - low false positive
+* Recall - Of all actual positive cases, how many the model correctly identified - low false negatives
+* F1 - harmonic mean of precision and recall
+
+| Actual \ Predicted | Positive (Win) | Negative (Loss) |
+|-------------------|---------------|-----------------|
+| Positive (Win)    | True Positive (TP) | False Negative (FN) |
+| Negative (Loss)   | False Positive (FP) | True Negative (TN) |
+
+The notebook output the following metric values for each model, ranked by F1.
+
+| Model | Accuracy | Precision | Recall | F1 | Interpretation |
+|-------|----------|-----------|--------|----|----------------|
+| `Random Forest Classifier` | 0.675325 | 0.581818 | 0.542373 | 0.561404 | Best overall balance |
+| `ExtraTrees Classifier` | 0.655844 | 0.553571 | 0.525424 | 0.539130 | Competitive, but weaker than RF |
+| `Logistic Regression` | 0.675325 | 0.595745 | 0.474576 | 0.528302 | Conservative predictions |
+| `Gradient Boosting Classifier` | 0.636364 | 0.526316 | 0.508475 | 0.517241 | Middling performance |
+| `Histogram Gradient Boosting Classifier` | 0.636364 | 0.528302 | 0.474576 | 0.500000 | Weakest overall |
 
 
+
+### Model Comparison Results
+The *Random Forest* model performs best overall, achieving the highest F1 score and therefore the best balance between precision and recall.
+It also achieves the highest recall among all models, meaning it correctly identifies more positive outcomes than the others.
+Additionally, it ties with Logistic Regression in terms of accuracy.
+
+*Logistic Regression* is the most conservative model. It achieves the highest precision but lower recall.
+This means that when it predicts a positive outcome, it is more likely to be correct, but it misses a larger number of actual positive cases.
+In other words, it produces fewer false positives but more false negatives.
+
+*ExtraTrees* performs similarly to Random Forest, indicating that the engineered features are well-suited for tree-based ensemble methods.
+However, the additional randomness introduced in ExtraTrees does not improve generalization compared to Random Forest in this case.
+
+Both boosting approaches, *Gradient Boosting Classifier* and *Histogram Gradient Boosting Classifier*, underperform compared to the other models.
+Possible reasons might be, that the dataset is relatively small, features already encode a strong predictive structure, 
+or that additional tuning of hyperparameters is necessary.
 
 ## Future work
 Since the current dataset mainly focuses on goal scores, 
 several improvements could further enhance the prediction quality and realism of the model:
-- Add more advanced team features, including aplayer age, world cup / tournament experience, team consistency
+- Add more advanced team features, including player age, world cup / tournament experience, team consistency
 - Incorporate tactical information, player positions, possesive and defense strength
 - Integrate external ranking systems
 
@@ -253,6 +292,8 @@ only the prediction step needs to be executed, by running the following notebook
 - View the output of the last notebook executed or analyze the output files in the predictions folder.
   - scoreboard
   - knockout matches
+4. Deactivate venv \
+   `deactivate`
 
 
 
