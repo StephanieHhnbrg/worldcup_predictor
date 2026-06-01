@@ -137,12 +137,22 @@ flowchart LR
 
 
 ## Model training
-The model is trained using the dataset enriched with features: `matches_with_features.csv`.
+The model is trained using the enriched dataset `matches_with_features.csv`.
 All feature columns are used as input variables (X), including team-specific features (suffix: `_team1`, `_team2`) and comparative features (suffix: `diff`)
-The target variable (Y) is the boolean column `win`.
+The target variable (Y) is the boolean column `win`, which indicates the match outcome.
 
-Then the dataset is split into training and testing subsets using an 80/20 ratio 
-and a simple Random Forest classifier is trained on the prepared dataset.
+The dataset is split into training and testing subsets using an 80/20 ratio.
+
+Users can select from the following machine learning models for training:
+
+| Model                            | Type                                  | Strengths                                                                                            | Weaknesses                                                 | Training Speed | Interpretability | Best Use Cases                                                     |
+| -------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------- | ---------------- | ------------------------------------------------------------------ |
+| `LogisticRegression`             | Linear model                          | Simple, fast, easy to interpret, works well with linearly separable data                             | Limited ability to capture complex relationships           | Very Fast      | High             | Baseline models, interpretable predictions, smaller datasets       |
+| `RandomForestClassifier`         | Ensemble (Bagging / Decision Trees)   | Handles nonlinear relationships, robust to overfitting, works well with mixed features               | Larger models, slower inference, less interpretable        | Medium         | Medium-Low       | General-purpose classification, tabular datasets                   |
+| `ExtraTreesClassifier`           | Ensemble (Extremely Randomized Trees) | Faster than Random Forest, reduces variance, handles nonlinear relationships well                    | Can be noisier due to additional randomness                | Fast           | Medium-Low       | Strong baseline for feature-rich tabular data                      |
+| `GradientBoostingClassifier`     | Ensemble (Boosting)                   | Often higher accuracy than bagging methods, captures complex patterns                                | Can overfit, slower training, sensitive to hyperparameters | Slow           | Low              | Structured/tabular data where accuracy is prioritized              |
+| `HistGradientBoostingClassifier` | Histogram-based Gradient Boosting     | Faster and more memory efficient than classic gradient boosting                                      | Less interpretable, tuning still required                  | Fast           | Low              | Medium-to-large tabular datasets                                   |
+
 
 ```mermaid
 flowchart LR
@@ -152,10 +162,6 @@ flowchart LR
     B --> D[model/model_metadata.pkl]
     B --> E[model/worldcup_model.pkl]
 ```
-
-# TODO: Model tuning
-- Random Forest / XGBoost / LightGBM or Logistic Regression (great baseline)
-- Gradient Boosted Trees?
 
 
 ## Prediction
@@ -245,8 +251,8 @@ only the prediction step needs to be executed, by running the following notebook
 - `prediction_knock_out_matches.ipynb`
 3. Check the winner of the worldcup 
 - View the output of the last notebook executed or analyze the output files in the predictions folder.
-  - [scoreboard](./predictions/predictions_2026_scoreboard.txt)
-  - [knockout matches](./predictions/predictions_2026_knockout_matches_complete.csv)
+  - scoreboard
+  - knockout matches
 
 
 

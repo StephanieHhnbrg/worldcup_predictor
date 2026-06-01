@@ -1,0 +1,33 @@
+match_id,team1,team2,date,round,pred_prob_win,predicted_winner,confidence
+M-2026-73,Czech Republic,Switzerland,29.6.2026,16 Final,0.365,Switzerland,0.635
+M-2026-74,Germany,South Korea,30.6.2026,16 Final,0.46933333333333316,South Korea,0.5306666666666668
+M-2026-75,Netherlands,Scotland,30.6.2026,16 Final,0.7413333333333333,Netherlands,0.7413333333333333
+M-2026-76,Brazil,Sweden,30.6.2026,16 Final,0.8911666666666666,Brazil,0.8911666666666666
+M-2026-77,Senegal,Qatar,1.7.2026,16 Final,0.90375,Senegal,0.90375
+M-2026-78,Curacao,France,1.7.2026,16 Final,0.28550000000000003,France,0.7144999999999999
+M-2026-79,South Africa,Haiti,1.7.2026,16 Final,0.32625,Haiti,0.6737500000000001
+M-2026-80,Ghana,Turkey,1.7.2026,16 Final,0.34375,Turkey,0.65625
+M-2026-81,Australia,Ecuador,2.7.2026,16 Final,0.5245000000000001,Australia,0.5245000000000001
+M-2026-82,Belgium,Japan,2.7.2026,16 Final,0.5408095238095239,Belgium,0.5408095238095239
+M-2026-83,Colombia,Croatia,3.7.2026,16 Final,0.44575,Croatia,0.55425
+M-2026-84,Spain,Jordan,3.7.2026,16 Final,0.8546666666666667,Spain,0.8546666666666667
+M-2026-85,Bosnia and Herzegovina,Egypt,3.7.2026,16 Final,0.5458333333333334,Bosnia and Herzegovina,0.5458333333333334
+M-2026-86,Argentina,Cape Verde,4.7.2026,16 Final,0.8060833333333332,Argentina,0.8060833333333332
+M-2026-87,Portugal,Uruguay,4.7.2026,16 Final,0.4799166666666668,Uruguay,0.5200833333333332
+M-2026-88,Paraguay,Iran,4.7.2026,16 Final,0.3825,Iran,0.6174999999999999
+M-2026-89,Switzerland,Netherlands,5.7.2026,8 Final,0.18916666666666665,Netherlands,0.8108333333333333
+M-2026-90,South Korea,Senegal,5.7.2026,8 Final,0.26666666666666666,Senegal,0.7333333333333334
+M-2026-91,Brazil,France,6.7.2026,8 Final,0.21212499999999998,France,0.787875
+M-2026-92,Haiti,Turkey,6.7.2026,8 Final,0.1125,Turkey,0.8875
+M-2026-93,Croatia,Spain,7.7.2026,8 Final,0.28041666666666665,Spain,0.7195833333333334
+M-2026-94,Australia,Belgium,7.7.2026,8 Final,0.1391666666666667,Belgium,0.8608333333333333
+M-2026-95,Argentina,Iran,8.7.2026,8 Final,0.8091666666666666,Argentina,0.8091666666666666
+M-2026-96,Bosnia and Herzegovina,Uruguay,8.7.2026,8 Final,0.2455,Uruguay,0.7545
+M-2026-97,Netherlands,Senegal,10.7.2026,Quarter Final,0.748,Netherlands,0.748
+M-2026-98,Spain,Belgium,11.7.2026,Quarter Final,0.376,Belgium,0.624
+M-2026-99,France,Turkey,12.7.2026,Quarter Final,0.462,Turkey,0.538
+M-2026-100,Argentina,Uruguay,12.7.2026,Quarter Final,0.5584523809523809,Argentina,0.5584523809523809
+M-2026-101,Netherlands,Belgium,15.7.2026,Half Final,0.58575,Netherlands,0.58575
+M-2026-102,Turkey,Argentina,16.7.2026,Half Final,0.19075,Argentina,0.80925
+M-2026-103,Belgium,Turkey,19.7.2026,Game for Spot 3,0.55625,Belgium,0.55625
+M-2026-104,Netherlands,Argentina,20.7.2026,Final,0.045333333333333344,Argentina,0.9546666666666667

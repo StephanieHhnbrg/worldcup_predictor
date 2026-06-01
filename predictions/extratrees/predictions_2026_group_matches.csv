@@ -1,0 +1,73 @@
+match_id,team1,team2,date,group,pred_prob_win,predicted_winner,confidence
+M-2026-01,Mexico,South Africa,12.6.2026,A,0.0,South Africa,1.0
+M-2026-25,Czech Republic,South Africa,18.6.2026,A,0.065,South Africa,0.935
+M-2026-54,Czech Republic,Mexico,25.6.2026,A,0.68,Czech Republic,0.68
+M-2026-28,Mexico,South Korea,19.6.2026,A,0.345,South Korea,0.655
+M-2026-53,South Africa,South Korea,25.6.2026,A,0.42,South Korea,0.5800000000000001
+M-2026-02,South Korea,Czech Republic,12.6.2026,A,0.545,South Korea,0.545
+M-2026-05,Qatar,Switzerland,14.6.2026,B,0.0,Switzerland,1.0
+M-2026-03,Canada,Bosnia and Herzegovina,13.6.2026,B,0.055,Bosnia and Herzegovina,0.945
+M-2026-27,Canada,Qatar,19.6.2026,B,0.29,Qatar,0.71
+M-2026-50,Bosnia and Herzegovina,Qatar,25.6.2026,B,0.67,Bosnia and Herzegovina,0.67
+M-2026-26,Switzerland,Bosnia and Herzegovina,19.6.2026,B,0.335,Bosnia and Herzegovina,0.665
+M-2026-49,Switzerland,Canada,25.6.2026,B,0.6025,Switzerland,0.6025
+M-2026-52,Scotland,Brazil,25.6.2026,C,0.075,Brazil,0.925
+M-2026-51,Morocco,Haiti,25.6.2026,C,0.085,Haiti,0.915
+M-2026-31,Brazil,Haiti,20.6.2026,C,0.9066666666666666,Brazil,0.9066666666666666
+M-2026-30,Scotland,Morocco,20.6.2026,C,0.725,Scotland,0.725
+M-2026-06,Brazil,Morocco,14.6.2026,C,0.6341666666666667,Brazil,0.6341666666666667
+M-2026-07,Haiti,Scotland,14.6.2026,C,0.39333333333333337,Scotland,0.6066666666666667
+M-2026-60,Paraguay,Australia,26.6.2026,D,0.08,Australia,0.92
+M-2026-32,Turkey,Paraguay,20.6.2026,D,0.18416666666666667,Paraguay,0.8158333333333333
+M-2026-08,Australia,Turkey,14.6.2026,D,0.24416666666666664,Turkey,0.7558333333333334
+M-2026-29,United States,Australia,20.6.2026,D,0.3641666666666667,Australia,0.6358333333333333
+M-2026-04,United States,Paraguay,13.6.2026,D,0.3675,Paraguay,0.6325000000000001
+M-2026-59,Turkey,United States,26.6.2026,D,0.6133333333333334,Turkey,0.6133333333333334
+M-2026-56,Ecuador,Germany,26.6.2026,E,0.0,Germany,1.0
+M-2026-55,Curacao,Ivory Coast,26.6.2026,E,0.1366666666666667,Ivory Coast,0.8633333333333333
+M-2026-09,Germany,Curacao,15.6.2026,E,0.85,Germany,0.85
+M-2026-34,Germany,Ivory Coast,21.6.2026,E,0.7,Germany,0.7
+M-2026-35,Ecuador,Curacao,21.6.2026,E,0.36999999999999994,Curacao,0.6300000000000001
+M-2026-11,Ivory Coast,Ecuador,15.6.2026,E,0.4566666666666667,Ecuador,0.5433333333333332
+M-2026-10,Netherlands,Japan,15.6.2026,F,1.0,Netherlands,1.0
+M-2026-36,Tunisia,Japan,21.6.2026,F,0.0,Japan,1.0
+M-2026-57,Tunisia,Netherlands,26.6.2026,F,0.0225,Netherlands,0.9775
+M-2026-58,Japan,Sweden,26.6.2026,F,0.1325,Sweden,0.8674999999999999
+M-2026-12,Sweden,Tunisia,15.6.2026,F,0.725,Sweden,0.725
+M-2026-33,Netherlands,Sweden,21.6.2026,F,0.5575,Netherlands,0.5575
+M-2026-65,New Zealand,Belgium,27.6.2026,G,0.0,Belgium,1.0
+M-2026-14,Belgium,Egypt,16.6.2026,G,0.9475,Belgium,0.9475
+M-2026-66,Egypt,Iran,27.6.2026,G,0.11,Iran,0.89
+M-2026-16,Iran,New Zealand,16.6.2026,G,0.8175,Iran,0.8175
+M-2026-40,New Zealand,Egypt,22.6.2026,G,0.285,Egypt,0.7150000000000001
+M-2026-38,Belgium,Iran,22.6.2026,G,0.58,Belgium,0.58
+M-2026-15,Saudi Arabia,Uruguay,16.6.2026,H,0.0,Uruguay,1.0
+M-2026-37,Spain,Saudi Arabia,21.6.2026,H,1.0,Spain,1.0
+M-2026-13,Spain,Cape Verde,15.6.2026,H,0.7658333333333335,Spain,0.7658333333333335
+M-2026-63,Cape Verde,Saudi Arabia,27.6.2026,H,0.6775,Cape Verde,0.6775
+M-2026-64,Uruguay,Spain,27.6.2026,H,0.395,Spain,0.605
+M-2026-39,Uruguay,Cape Verde,22.6.2026,H,0.45,Cape Verde,0.55
+M-2026-17,France,Senegal,17.6.2026,I,0.0,Senegal,1.0
+M-2026-43,Norway,Senegal,23.6.2026,I,0.09,Senegal,0.91
+M-2026-62,Senegal,Iraq,27.6.2026,I,0.7116666666666666,Senegal,0.7116666666666666
+M-2026-42,France,Iraq,23.6.2026,I,0.33333333333333337,Iraq,0.6666666666666666
+M-2026-18,Iraq,Norway,17.6.2026,I,0.39333333333333337,Norway,0.6066666666666667
+M-2026-61,Norway,France,27.6.2026,I,0.4675,France,0.5325
+M-2026-72,Jordan,Argentina,28.6.2026,J,0.095,Argentina,0.905
+M-2026-41,Argentina,Austria,23.6.2026,J,0.8558333333333333,Argentina,0.8558333333333333
+M-2026-19,Argentina,Algeria,17.6.2026,J,0.7975,Argentina,0.7975
+M-2026-71,Algeria,Austria,28.6.2026,J,0.2866666666666667,Austria,0.7133333333333334
+M-2026-20,Austria,Jordan,17.6.2026,J,0.39333333333333337,Jordan,0.6066666666666667
+M-2026-44,Jordan,Algeria,23.6.2026,J,0.5091666666666667,Jordan,0.5091666666666667
+M-2026-24,Usbekistan,Colombia,18.6.2026,K,0.0575,Colombia,0.9425
+M-2026-69,Colombia,Portugal,28.6.2026,K,0.0725,Portugal,0.9275
+M-2026-48,Colombia,Kongo,24.6.2026,K,0.7608333333333335,Colombia,0.7608333333333335
+M-2026-21,Portugal,Kongo,18.6.2026,K,0.6308333333333334,Portugal,0.6308333333333334
+M-2026-45,Portugal,Usbekistan,24.6.2026,K,0.6308333333333334,Portugal,0.6308333333333334
+M-2026-70,Kongo,Usbekistan,28.6.2026,K,0.39333333333333337,Usbekistan,0.6066666666666667
+M-2026-22,England,Croatia,18.6.2026,L,0.0,Croatia,1.0
+M-2026-47,Panama,Croatia,24.6.2026,L,0.0,Croatia,1.0
+M-2026-67,Panama,England,28.6.2026,L,0.0,England,1.0
+M-2026-68,Croatia,Ghana,28.6.2026,L,0.2375,Ghana,0.7625
+M-2026-23,Ghana,Panama,18.6.2026,L,0.7475,Ghana,0.7475
+M-2026-46,England,Ghana,24.6.2026,L,0.545,England,0.545

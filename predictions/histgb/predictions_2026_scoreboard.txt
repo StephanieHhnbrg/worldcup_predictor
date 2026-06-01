@@ -1,0 +1,63 @@
+South Korea     ─┐                                                              
+                 ├──▶ Switzerland    ─┐                                         
+Switzerland     ─┘                    |                                         
+                                      ├──▶  Netherlands    ─┐
+Netherlands     ─┐                    |                                         
+                 ├──▶ Netherlands    ─┘                     |                   
+Scotland        ─┘                                          |                   
+                                                            ├──▶  Germany        ─┐
+Germany         ─┐                                          |                     |
+                 ├──▶ Germany        ─┐                     |                     |
+Czech Republic  ─┘                    |                                           |
+                                      ├──▶  Germany        ─┘
+France          ─┐                    |                                           |
+                 ├──▶ France         ─┘                                           |
+Canada          ─┘                                                                |
+                                                                                  ├──▶  Germany          ─┐
+Colombia        ─┐                                                                |
+                 ├──▶ Colombia       ─┐                                           |
+Croatia         ─┘                    |                                           |
+                                      ├──▶  Spain          ─┐                                             |
+Spain           ─┐                    |                                           |
+                 ├──▶ Spain          ─┘                     |                     |
+Jordan          ─┘                                          |                     |
+                                                            ├──▶  Belgium        ─┘                       |
+Paraguay        ─┐                                          |                   
+                 ├──▶ Ecuador        ─┐                     |                   
+Ecuador         ─┘                    |                                         
+                                      ├──▶  Belgium        ─┘                                             |
+Belgium         ─┐                    |                                         
+                 ├──▶ Belgium        ─┘                                         
+Japan           ─┘                                                              
+                                                                                                     🏆 Germany 🇩🇪     
+Brazil          ─┐                                                              
+                 ├──▶ Brazil         ─┐                                         
+Sweden          ─┘                    |                                         
+                                      ├──▶  Brazil         ─┐                                             |
+Curacao         ─┐                    |                                         
+                 ├──▶ Senegal        ─┘                     |                   
+Senegal         ─┘                                          |                   
+                                                            ├──▶  Brazil         ─┐                       |
+South Africa    ─┐                                          |                     |
+                 ├──▶ Haiti          ─┐                     |                     |
+Haiti           ─┘                    |                                           |
+                                      ├──▶  Australia      ─┘                                             |
+Ghana           ─┐                    |                                           |
+                 ├──▶ Australia      ─┘                                           |
+Australia       ─┘                                                                |
+                                                                                  ├──▶  Portugal         ─┘
+Argentina       ─┐                                                                |
+                 ├──▶ Uruguay        ─┐                                           |
+Uruguay         ─┘                    |                                           |
+                                      ├──▶  United States  ─┐
+United States   ─┐                    |                                           |
+                 ├──▶ United States  ─┘                     |                     |
+Iran            ─┘                                          |                     |
+                                                            ├──▶  Portugal       ─┘
+Bosnia          ─┐                                          |                   
+                 ├──▶ Bosnia         ─┐                     |                   
+New Zealand     ─┘                    |                                         
+                                      ├──▶  Portugal       ─┘
+Portugal        ─┐                    |                                         
+                 ├──▶ Portugal       ─┘                                         
+Cape Verde      ─┘                                                              
