@@ -221,8 +221,8 @@ flowchart TB
     classDef prediction fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#000
     classDef model fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#000
 
-    class LEG1,A,H data
-    class LEG2,B,C,D model
+    class LEG1,A,B,H data
+    class LEG2,C,D model
     class LEG3,E,G,I notebook
     class LEG4,F,J,K,L,M prediction
 ```
@@ -243,13 +243,13 @@ Performance is evaluated using the following metrics:
 
 The notebook output the following metric values for each model, ranked by F1.
 
-| Model | Accuracy | Precision | Recall | F1 | Interpretation |
-|-------|----------|-----------|--------|----|----------------|
-| `Random Forest Classifier` | 0.675325 | 0.581818 | 0.542373 | 0.561404 | Best overall balance |
-| `ExtraTrees Classifier` | 0.655844 | 0.553571 | 0.525424 | 0.539130 | Competitive, but weaker than RF |
-| `Logistic Regression` | 0.675325 | 0.595745 | 0.474576 | 0.528302 | Conservative predictions |
-| `Gradient Boosting Classifier` | 0.636364 | 0.526316 | 0.508475 | 0.517241 | Middling performance |
-| `Histogram Gradient Boosting Classifier` | 0.636364 | 0.528302 | 0.474576 | 0.500000 | Weakest overall |
+| Model | Accuracy | Precision | Recall | F1 | Interpretation | 🏆Winner      |
+|-------|----------|-----------|--------|----|----------------|---------------|
+| `Random Forest Classifier` | 0.675325 | 0.581818 | 0.542373 | 0.561404 | Best overall balance | Argentina 🇦🇷 |
+| `ExtraTrees Classifier` | 0.655844 | 0.553571 | 0.525424 | 0.539130 | Competitive, but weaker than RF | Germany 🇩🇪  |
+| `Logistic Regression` | 0.675325 | 0.595745 | 0.474576 | 0.528302 | Conservative predictions | Brazil 🇧🇷   |
+| `Gradient Boosting Classifier` | 0.636364 | 0.526316 | 0.508475 | 0.517241 | Middling performance | Portugal 🇵🇹 |
+| `Histogram Gradient Boosting Classifier` | 0.636364 | 0.528302 | 0.474576 | 0.500000 | Weakest overall | Germany 🇩🇪  |
 
 
 
