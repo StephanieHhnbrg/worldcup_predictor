@@ -4,7 +4,7 @@ graph LR
     CzechRepublic_32["<div style="width:200px;text-align:center">🇨🇿  Czech Republic</div>"] --> Switzerland_16["<div style="width:200px;text-align:center">🇨🇭  Switzerland</div>"]
     Switzerland_32["<div style="width:200px;text-align:center">🇨🇭  Switzerland</div>"] --> Switzerland_16
     Netherlands_32["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"] --> Netherlands_16["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"]
-    Scotland_32["<div style="width:200px;text-align:center">🏴󠁧󠁢󠁳󠁣󠁴󠁿   Scotland</div>"] --> Netherlands_16
+    Scotland_32["<div style="width:200px;text-align:center">🏴󠁧󠁢󠁳󠁣󠁴󠁿  Scotland</div>"] --> Netherlands_16
     Germany_32["<div style="width:200px;text-align:center">🇩🇪  Germany</div>"] --> SouthKorea_16["<div style="width:200px;text-align:center">🇰🇷  South Korea</div>"]
     SouthKorea_32["<div style="width:200px;text-align:center">🇰🇷  South Korea</div>"] --> SouthKorea_16
     Senegal_32["<div style="width:200px;text-align:center">🇸🇳  Senegal</div>"] --> Senegal_16["<div style="width:200px;text-align:center">🇸🇳  Senegal</div>"]
@@ -23,7 +23,7 @@ graph LR
     France_32["<div style="width:200px;text-align:center">🇫🇷  France</div>"] --> France_16
     SouthAfrica_32["<div style="width:200px;text-align:center">🇿🇦  South Africa</div>"] --> Haiti_16["<div style="width:200px;text-align:center">🇭🇹  Haiti</div>"]
     Haiti_32["<div style="width:200px;text-align:center">🇭🇹  Haiti</div>"] --> Haiti_16
-    Ghana_32["<div style="width:200px;text-align:center">None  Ghana</div>"] --> Turkey_16["<div style="width:200px;text-align:center">🇹🇷  Turkey</div>"]
+    Ghana_32["<div style="width:200px;text-align:center">🇬🇭  Ghana</div>"] --> Turkey_16["<div style="width:200px;text-align:center">🇹🇷  Turkey</div>"]
     Turkey_32["<div style="width:200px;text-align:center">🇹🇷  Turkey</div>"] --> Turkey_16
     Argentina_32["<div style="width:200px;text-align:center">🇦🇷  Argentina</div>"] --> Argentina_16["<div style="width:200px;text-align:center">🇦🇷  Argentina</div>"]
     CapeVerde_32["<div style="width:200px;text-align:center">🇨🇻  Cape Verde</div>"] --> Argentina_16

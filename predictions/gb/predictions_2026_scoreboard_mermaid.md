@@ -4,7 +4,7 @@ graph LR
     SouthAfrica_32["<div style="width:200px;text-align:center">🇿🇦  South Africa</div>"] --> Switzerland_16["<div style="width:200px;text-align:center">🇨🇭  Switzerland</div>"]
     Switzerland_32["<div style="width:200px;text-align:center">🇨🇭  Switzerland</div>"] --> Switzerland_16
     Netherlands_32["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"] --> Netherlands_16["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"]
-    Morocco_32["<div style="width:200px;text-align:center">None  Morocco</div>"] --> Netherlands_16
+    Morocco_32["<div style="width:200px;text-align:center">🇲🇦  Morocco</div>"] --> Netherlands_16
     Germany_32["<div style="width:200px;text-align:center">🇩🇪  Germany</div>"] --> Germany_16["<div style="width:200px;text-align:center">🇩🇪  Germany</div>"]
     CzechRepublic_32["<div style="width:200px;text-align:center">🇨🇿  Czech Republic</div>"] --> Germany_16
     Iraq_32["<div style="width:200px;text-align:center">🇮🇶  Iraq</div>"] --> Iraq_16["<div style="width:200px;text-align:center">🇮🇶  Iraq</div>"]
@@ -12,7 +12,7 @@ graph LR
     Colombia_32["<div style="width:200px;text-align:center">🇨🇴  Colombia</div>"] --> Croatia_16["<div style="width:200px;text-align:center">🇭🇷  Croatia</div>"]
     Croatia_32["<div style="width:200px;text-align:center">🇭🇷  Croatia</div>"] --> Croatia_16
     Spain_32["<div style="width:200px;text-align:center">🇪🇸  Spain</div>"] --> Spain_16["<div style="width:200px;text-align:center">🇪🇸  Spain</div>"]
-    Algeria_32["<div style="width:200px;text-align:center">None  Algeria</div>"] --> Spain_16
+    Algeria_32["<div style="width:200px;text-align:center">🇩🇿  Algeria</div>"] --> Spain_16
     Paraguay_32["<div style="width:200px;text-align:center">🇵🇾  Paraguay</div>"] --> Ecuador_16["<div style="width:200px;text-align:center">🇪🇨  Ecuador</div>"]
     Ecuador_32["<div style="width:200px;text-align:center">🇪🇨  Ecuador</div>"] --> Ecuador_16
     Belgium_32["<div style="width:200px;text-align:center">🇧🇪  Belgium</div>"] --> Belgium_16["<div style="width:200px;text-align:center">🇧🇪  Belgium</div>"]
@@ -23,7 +23,7 @@ graph LR
     Senegal_32["<div style="width:200px;text-align:center">🇸🇳  Senegal</div>"] --> Senegal_16
     SouthKorea_32["<div style="width:200px;text-align:center">🇰🇷  South Korea</div>"] --> SouthKorea_16["<div style="width:200px;text-align:center">🇰🇷  South Korea</div>"]
     Haiti_32["<div style="width:200px;text-align:center">🇭🇹  Haiti</div>"] --> SouthKorea_16
-    Ghana_32["<div style="width:200px;text-align:center">None  Ghana</div>"] --> Australia_16["<div style="width:200px;text-align:center">🇦🇺  Australia</div>"]
+    Ghana_32["<div style="width:200px;text-align:center">🇬🇭  Ghana</div>"] --> Australia_16["<div style="width:200px;text-align:center">🇦🇺  Australia</div>"]
     Australia_32["<div style="width:200px;text-align:center">🇦🇺  Australia</div>"] --> Australia_16
     Argentina_32["<div style="width:200px;text-align:center">🇦🇷  Argentina</div>"] --> Uruguay_16["<div style="width:200px;text-align:center">🇺🇾  Uruguay</div>"]
     Uruguay_32["<div style="width:200px;text-align:center">🇺🇾  Uruguay</div>"] --> Uruguay_16

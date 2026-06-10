@@ -4,7 +4,7 @@ graph LR
     SouthAfrica_32["<div style="width:200px;text-align:center">🇿🇦  South Africa</div>"] --> SouthAfrica_16["<div style="width:200px;text-align:center">🇿🇦  South Africa</div>"]
     Switzerland_32["<div style="width:200px;text-align:center">🇨🇭  Switzerland</div>"] --> SouthAfrica_16
     Netherlands_32["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"] --> Netherlands_16["<div style="width:200px;text-align:center">🇳🇱  Netherlands</div>"]
-    Scotland_32["<div style="width:200px;text-align:center">🏴󠁧󠁢󠁳󠁣󠁴󠁿   Scotland</div>"] --> Netherlands_16
+    Scotland_32["<div style="width:200px;text-align:center">🏴󠁧󠁢󠁳󠁣󠁴󠁿  Scotland</div>"] --> Netherlands_16
     Germany_32["<div style="width:200px;text-align:center">🇩🇪  Germany</div>"] --> Germany_16["<div style="width:200px;text-align:center">🇩🇪  Germany</div>"]
     CzechRepublic_32["<div style="width:200px;text-align:center">🇨🇿  Czech Republic</div>"] --> Germany_16
     Senegal_32["<div style="width:200px;text-align:center">🇸🇳  Senegal</div>"] --> Senegal_16["<div style="width:200px;text-align:center">🇸🇳  Senegal</div>"]
